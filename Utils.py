@@ -48,9 +48,13 @@ def nutri_filtro_menu(Datos='Grafica' , y= 0):
         return sodium_safe
         
 
-    elif Datos == 'fiber':
+    if Datos == 'fiber':
         
         return fiber_good
+
+    if Datos == 'original':
+        
+        return df_nutri
 
 def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
     df_USA=pd.read_csv('Data/National_Obesity_By_State.csv')
@@ -86,7 +90,7 @@ def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
             'RNETMIG2021', 'RNETMIG2022'], axis=1,inplace=True)
    
     Data_1['Population with obesity']=round(Data_1['Population']*Data_1['Adult.Obesity']) 
-    Data_1['All fast food']=round(pob_res_estado['Population']*pob_res_estado['All-Fast-Food-RES per-100k']/100000)
+    Data_1['All fast food']=round(Data_1['Population']*Data_1['All-Fast-Food-RES per-100k']/100000)
     
     if Tabla == True:
 
@@ -102,6 +106,7 @@ def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
             key_on='feature.properties.name',
             fill_color="YlGn",
             fill_opacity=0.7,
+    
             legend_name="restaurantes (%)",
         ).add_to(m)
 
@@ -116,6 +121,7 @@ def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
             vmax=1,
             cmap=sns.diverging_palette(145, 280, s=85, l=25, n=7),
             square=True,
+           
             annot=True);
             
     elif Grafica== 'obesidad-restaurantes':
@@ -128,6 +134,7 @@ def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
                 alpha=.8, palette="autumn",
                 legend='brief',
                 height=10);
+
 def obesidad_ganancia(Grafica=False,Tabla=False):
     df_adults_Ob=pd.read_csv('Data/percent_of_adults_with_obesity_usafacts.csv')
     df_adults_Ob.drop_duplicates('Years', keep="last",inplace=True)
