@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
-def nutri_filtro_menu(x='Tablas' , y= 0):
+def nutri_filtro_menu(Datos='Grafica' , y= 0):
     df_nutri=pd.read_csv('Data/nutrition_values.csv',sep=';')
     df_nutri.fillna(value=0, inplace=True)
     df_nutri.replace({'-':int(0), ',':'.'}, inplace=True,regex=True)
@@ -32,7 +32,7 @@ def nutri_filtro_menu(x='Tablas' , y= 0):
     fiber_good=fiber_good[fiber_good['Item']!=0]        
     fiber_good['Protein (g)/g of portion']=fiber_good['Protein (g)']/fiber_good['Serving Size (g)'] 
 
-    if x == 'Tablas':        
+    if Datos == 'Grafica':        
  
         if y == 1:
             plt.figure()
@@ -43,12 +43,12 @@ def nutri_filtro_menu(x='Tablas' , y= 0):
         else:
             return print('seleccione una tabla')
     
-    if x == 'sodium':        
+    if Datos == 'sodium':        
                     
         return sodium_safe
         
 
-    elif x == 'fiber':
+    elif Datos == 'fiber':
         
         return fiber_good
 
