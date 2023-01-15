@@ -1,0 +1,500 @@
+,Chain,Item,Type,Serving Size (g),Calories,Calories from fat,Total Fat (g),Saturated Fat (g),Trans Fat (g),Chol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugar (g),Protein (g)
+0,Burger King,Whopper Sandwich,Whopper Sandwiches,270.0,660.0,360.0,40.0,12.0,1.5,90.0,980.0,49.0,2.0,11.0,28.0
+1,Burger King,Whopper Sandwich with Cheese,Whopper Sandwiches,292.0,740.0,420.0,46.0,16.0,2.0,115.0,1340.0,50.0,2.0,11.0,32.0
+2,Burger King,Bacon & Cheese Whopper Sandwich,Whopper Sandwiches,303.0,790.0,460.0,51.0,17.0,2.0,125.0,1560.0,50.0,2.0,11.0,35.0
+3,Burger King,Double Whopper Sandwich,Whopper Sandwiches,354.0,900.0,520.0,58.0,20.0,3.0,175.0,1050.0,49.0,2.0,11.0,48.0
+4,Burger King,Double Whopper Sandwich with Cheese,Whopper Sandwiches,377.0,980.0,580.0,64.0,24.0,3.0,195.0,1410.0,50.0,2.0,11.0,52.0
+5,Burger King,Triple Whopper Sandwich,Whopper Sandwiches,438.0,1130.0,680.0,75.0,28.0,4.0,255.0,1120.0,49.0,2.0,11.0,67.0
+6,Burger King,Triple Whopper Sandwich with Cheese,Whopper Sandwiches,461.0,1220.0,740.0,82.0,32.0,4.5,280.0,1470.0,50.0,2.0,11.0,71.0
+7,Burger King,Whopper JR Sandwich,Whopper Sandwiches,134.0,310.0,160.0,18.0,5.0,0.5,40.0,390.0,27.0,1.0,7.0,13.0
+8,Burger King,Bacon King Sandwich,Flame Broiled Burgers,356.0,1150.0,710.0,79.0,31.0,3.5,240.0,2150.0,49.0,2.0,10.0,61.0
+9,Burger King,Cheddar Bacon King Sandwich,Flame Broiled Burgers,366.0,1190.0,750.0,84.0,33.0,3.5,235.0,1930.0,50.0,2.0,11.0,64.0
+10,Burger King,Single Quarter Pound King Sandwich,Flame Broiled Burgers,231.0,580.0,260.0,29.0,13.0,1.5,105.0,1310.0,49.0,2.0,10.0,32.0
+11,Burger King,Double Quarter Pound King Sandwich,Flame Broiled Burgers,338.0,900.0,480.0,54.0,25.0,3.0,210.0,1740.0,50.0,2.0,11.0,56.0
+12,Burger King,Single Stacker King,Flame Broiled Burgers,223.0,700.0,380.0,42.0,16.0,2.0,125.0,1360.0,48.0,1.0,10.0,35.0
+13,Burger King,Double Stacker King,Flame Broiled Burgers,334.0,1050.0,610.0,68.0,28.0,3.5,235.0,1870.0,49.0,1.0,11.0,61.0
+14,Burger King,Impossible Whopper Sandwich,Flame Broiled Burgers,285.0,630.0,310.0,34.0,11.0,0.0,10.0,1080.0,58.0,4.0,12.0,25.0
+15,Burger King,Hamburger,Flame Broiled Burgers,99.0,240.0,90.0,10.0,3.5,0.5,35.0,380.0,26.0,1.0,6.0,13.0
+16,Burger King,Cheeseburger,Flame Broiled Burgers,111.0,280.0,120.0,13.0,6.0,0.5,45.0,560.0,27.0,1.0,7.0,15.0
+17,Burger King,Double Hamburger,Flame Broiled Burgers,136.0,350.0,160.0,18.0,7.0,1.0,70.0,410.0,26.0,1.0,6.0,21.0
+18,Burger King,Double Cheeseburger,Flame Broiled Burgers,148.0,390.0,190.0,21.0,9.0,1.5,85.0,590.0,27.0,1.0,7.0,23.0
+19,Burger King,Extra Long Cheeseburger,Flame Broiled Burgers,226.0,630.0,330.0,37.0,14.0,1.5,100.0,1050.0,45.0,2.0,9.0,29.0
+20,Burger King,Bacon Cheeseburger,Flame Broiled Burgers,118.0,320.0,140.0,16.0,7.0,0.5,55.0,710.0,27.0,1.0,7.0,17.0
+21,Burger King,Bacon Double Cheeseburger,Flame Broiled Burgers,155.0,420.0,210.0,24.0,10.0,1.5,90.0,740.0,27.0,1.0,7.0,25.0
+22,Burger King,Crispy Chicken Sandwich,Chicken & More,228.0,670.0,370.0,41.0,7.0,0.0,60.0,1080.0,54.0,2.0,8.0,23.0
+23,Burger King,Spicy Crispy Chicken Sandwich,Chicken & More,242.0,700.0,370.0,42.0,7.0,0.0,65.0,1140.0,57.0,3.0,8.0,25.0
+24,Burger King,Original Chicken Sandwich,Chicken & More,219.0,660.0,360.0,40.0,7.0,0.0,75.0,1170.0,48.0,2.0,5.0,28.0
+25,Burger King,Bacon & Cheese Crispy Chicken Sandwich,Chicken & More,262.0,800.0,460.0,52.0,13.0,1.0,95.0,1650.0,55.0,2.0,8.0,30.0
+26,Burger King,BBQ Bacon Crispy Chicken Sandwich,Chicken & More,249.0,790.0,440.0,49.0,10.0,0.5,80.0,1630.0,60.0,2.0,13.0,28.0
+27,Burger King,Crispy Chicken Jr.,Chicken & More,142.0,450.0,270.0,30.0,5.0,0.0,30.0,780.0,34.0,2.0,5.0,12.0
+28,Burger King,Spicy Crispy Chicken Jr.,Chicken & More,142.0,390.0,190.0,21.0,3.5,0.0,30.0,740.0,37.0,2.0,6.0,12.0
+29,Burger King,0,Chicken & More,58.0,170.0,100.0,11.0,1.5,0.0,25.0,310.0,11.0,1.0,0.0,8.0
+30,Burger King,0,Chicken & More,88.0,260.0,150.0,16.0,2.5,0.0,35.0,470.0,16.0,1.0,0.0,12.0
+31,Burger King,0,Chicken & More,146.0,430.0,240.0,27.0,4.5,0.0,55.0,780.0,27.0,2.0,0.0,20.0
+32,Burger King,0,Chicken & More,292.0,860.0,490.0,54.0,9.0,0.0,115.0,1570.0,53.0,3.0,1.0,39.0
+33,Burger King,0,Chicken & More,66.0,210.0,130.0,15.0,3.0,0.0,20.0,570.0,11.0,2.0,0.0,8.0
+34,Burger King,0,Chicken & More,99.0,320.0,200.0,22.0,4.5,0.0,35.0,850.0,17.0,3.0,0.0,12.0
+35,Burger King,0,Chicken & More,165.0,530.0,330.0,37.0,7.0,0.0,55.0,1420.0,28.0,4.0,1.0,20.0
+36,Burger King,0,Chicken & More,330.0,1050.0,670.0,74.0,15.0,0.0,110.0,2840.0,56.0,9.0,1.0,40.0
+37,Burger King,0,Chicken & More,91.0,280.0,150.0,17.0,2.5,0.0,35.0,850.0,20.0,1.0,1.0,13.0
+38,Burger King,Crispy Taco,Chicken & More,76.0,170.0,80.0,9.0,3.0,0.0,10.0,410.0,19.0,2.0,1.0,5.0
+39,Burger King,Big Fish Sandwich,Chicken & More,188.0,510.0,250.0,28.0,4.5,0.0,30.0,1180.0,51.0,2.0,7.0,16.0
+40,Burger King,0,Salads & Sides,287.0,440.0,220.0,25.0,7.0,0.0,75.0,930.0,31.0,3.0,4.0,25.0
+41,Burger King,0,Salads & Sides,308.0,540.0,300.0,33.0,10.0,0.0,95.0,1380.0,31.0,3.0,5.0,31.0
+42,Burger King,0,Salads & Sides,99.0,60.0,35.0,4.0,2.5,0.0,10.0,95.0,3.0,1.0,2.0,4.0
+43,Burger King,Ken's Ranch Dressing,Salads & Sides,43.0,260.0,250.0,28.0,4.0,0.0,10.0,240.0,2.0,0.0,2.0,1.0
+44,Burger King,Ken's Golden Italian Dressing,Salads & Sides,43.0,160.0,150.0,17.0,2.5,0.0,0.0,380.0,4.0,0.0,3.0,0.0
+45,Burger King,Ken's Lite Honey Balsamic Vinaigrette,Salads & Sides,43.0,120.0,70.0,8.0,1.0,0.0,0.0,220.0,14.0,0.0,11.0,0.0
+46,Burger King,Buttery Garlic Croutons,Salads & Sides,14.0,60.0,20.0,2.5,0.0,0.0,10.0,180.0,9.0,0.0,1.0,1.0
+47,Burger King,0,Salads & Sides,43.0,150.0,70.0,8.0,1.5,0.0,0.0,400.0,19.0,1.0,2.0,1.0
+48,Burger King,0,Salads & Sides,91.0,320.0,150.0,16.0,3.0,0.0,0.0,840.0,41.0,3.0,4.0,3.0
+49,Burger King,0,Salads & Sides,117.0,410.0,190.0,21.0,3.5,0.0,0.0,1080.0,53.0,4.0,5.0,4.0
+50,Burger King,0,Salads & Sides,142.0,500.0,230.0,25.0,4.5,0.0,0.0,1310.0,64.0,5.0,7.0,5.0
+51,Burger King,0,Salads & Sides,89.0,220.0,80.0,9.0,1.5,0.0,0.0,210.0,34.0,3.0,1.0,2.0
+52,Burger King,0,Salads & Sides,128.0,320.0,120.0,13.0,2.0,0.0,0.0,300.0,49.0,5.0,1.0,4.0
+53,Burger King,0,Salads & Sides,153.0,380.0,140.0,16.0,2.0,0.0,0.0,360.0,58.0,6.0,1.0,4.0
+54,Burger King,0,Salads & Sides,173.0,430.0,160.0,18.0,2.5,0.0,0.0,410.0,66.0,7.0,2.0,5.0
+55,Burger King,Kids Oatmeal,0,167.0,170.0,30.0,3.0,1.5,0.0,5.0,260.0,32.0,3.0,12.0,4.0
+56,Burger King,0,0,58.0,170.0,100.0,11.0,1.5,0.0,25.0,310.0,11.0,1.0,0.0,8.0
+57,Burger King,0,0,88.0,260.0,150.0,16.0,2.5,0.0,35.0,470.0,16.0,1.0,0.0,12.0
+58,Burger King,Hamburger,0,99.0,240.0,90.0,10.0,3.5,0.5,35.0,380.0,26.0,1.0,6.0,13.0
+59,Burger King,Cheeseburger,0,111.0,280.0,120.0,13.0,6.0,0.5,45.0,560.0,27.0,1.0,7.0,15.0
+60,Burger King,Mott's Natural Applesauce,0,111.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.0,11.0,0.0
+61,Burger King,Fat Free Milk (8 fl oz),0,0.0,90.0,0.0,0.0,0.0,0.0,5.0,125.0,13.0,0.0,12.0,9.0
+62,Burger King,1% Low Fat Chocolate Milk (8 fl oz),0,0.0,160.0,25.0,2.5,1.5,0.0,15.0,150.0,26.0,0.0,25.0,8.0
+63,Burger King,Capri Sun 100% Apple Juice,0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,25.0,20.0,0.0,20.0,0.0
+64,Burger King,PB&J Jamwich,0,79.0,300.0,140.0,16.0,3.0,0.0,0.0,290.0,33.0,4.0,11.0,11.0
+65,Burger King,Soft Serve Cone,0,120.0,190.0,40.0,4.5,3.0,0.0,20.0,150.0,32.0,0.0,24.0,5.0
+66,Burger King,Dutch Apple Pie,Desserts,107.0,340.0,130.0,14.0,6.0,0.0,0.0,310.0,51.0,1.0,25.0,3.0
+67,Burger King,Hershey's Sundae Pie,Desserts,79.0,310.0,170.0,19.0,12.0,0.0,10.0,220.0,32.0,1.0,22.0,3.0
+68,Burger King,Pie made with Twix,Desserts,102.0,370.0,180.0,20.0,13.0,0.0,10.0,330.0,45.0,1.0,30.0,4.0
+69,Burger King,Oreo Cookie Cheesecake,Desserts,92.0,350.0,170.0,18.0,8.0,0.0,35.0,310.0,41.0,1.0,25.0,6.0
+70,Burger King,Soft Serve Cone,Desserts,120.0,190.0,40.0,4.5,3.0,0.0,20.0,150.0,32.0,0.0,24.0,5.0
+71,Burger King,Soft Serve Cup,Desserts,115.0,170.0,40.0,4.5,3.0,0.0,20.0,150.0,28.0,0.0,24.0,5.0
+72,Burger King,Hershey's Chocolate Sundae,Desserts,149.0,260.0,45.0,5.0,3.0,0.0,20.0,160.0,49.0,1.0,43.0,5.0
+73,Burger King,Caramel Sundae,Desserts,137.0,240.0,50.0,5.0,3.5,0.0,20.0,210.0,42.0,0.0,33.0,5.0
+74,Burger King,Chocolate Chip Cookies (each),Desserts,38.0,160.0,70.0,8.0,4.0,0.0,10.0,125.0,24.0,1.0,15.0,2.0
+75,Burger King,Croissan'wich Egg & Cheese,Breakfast,125.0,340.0,170.0,18.0,8.0,0.0,160.0,610.0,29.0,1.0,4.0,12.0
+76,Burger King,Croissan'wich Sausage. Egg & Cheese,Breakfast,169.0,500.0,300.0,33.0,13.0,0.0,195.0,930.0,30.0,1.0,4.0,19.0
+77,Burger King,Croissan'wich Ham. Egg & Cheese,Breakfast,156.0,370.0,170.0,19.0,8.0,0.0,175.0,1030.0,30.0,1.0,5.0,17.0
+78,Burger King,Croissan'wich Bacon. Egg & Cheese,Breakfast,132.0,370.0,190.0,21.0,9.0,0.0,170.0,760.0,30.0,1.0,4.0,14.0
+79,Burger King,Fully Loaded Croissan'wich,Breakfast,218.0,610.0,360.0,40.0,17.0,0.5,225.0,1680.0,31.0,1.0,5.0,28.0
+80,Burger King,Double Croissan'wich with Sausage & Bacon,Breakfast,187.0,580.0,340.0,40.0,16.0,0.5,215.0,1260.0,31.0,1.0,5.0,23.0
+81,Burger King,Double Croissan'wich with Sausage,Breakfast,224.0,710.0,470.0,52.0,20.0,0.5,240.0,1420.0,31.0,1.0,5.0,29.0
+82,Burger King,Double Croissan'wich with Ham & Sausage,Breakfast,211.0,580.0,340.0,38.0,16.0,0.5,220.0,1530.0,31.0,1.0,5.0,27.0
+83,Burger King,Fully Loaded Biscuit,Breakfast,238.0,640.0,400.0,45.0,20.0,0.0,225.0,2190.0,31.0,1.0,4.0,28.0
+84,Burger King,Ham. Egg & Cheese Biscuit,Breakfast,176.0,400.0,210.0,24.0,12.0,0.0,175.0,1550.0,29.0,1.0,3.0,17.0
+85,Burger King,Sausage. Egg & Cheese Biscuit,Breakfast,189.0,530.0,340.0,38.0,17.0,0.0,195.0,1440.0,29.0,1.0,3.0,19.0
+86,Burger King,Bacon. Egg & Cheese Biscuit,Breakfast,152.0,400.0,230.0,26.0,13.0,0.0,170.0,1270.0,29.0,1.0,3.0,13.0
+87,Burger King,Sausage Biscuit,Breakfast,121.0,420.0,250.0,28.0,6.0,0.0,35.0,1050.0,28.0,1.0,2.0,12.0
+88,Burger King,Breakfast Burrito Jr.,Breakfast,143.0,370.0,210.0,23.0,8.0,0.0,150.0,930.0,27.0,3.0,2.0,15.0
+89,Burger King,0,Breakfast,310.0,780.0,380.0,42.0,15.0,0.0,355.0,1960.0,68.0,3.0,4.0,32.0
+90,Burger King,BK Ultimate Breakfast Platter,Breakfast,390.0,930.0,390.0,44.0,11.0,0.0,390.0,2230.0,110.0,4.0,40.0,24.0
+91,Burger King,NY Ultimate Platter,Breakfast,400.0,900.0,420.0,46.0,12.0,0.0,380.0,1760.0,95.0,5.0,31.0,25.0
+92,Burger King,Pancake and Sausage Platter,Breakfast,217.0,610.0,280.0,31.0,9.0,0.0,80.0,1010.0,72.0,1.0,30.0,12.0
+93,Burger King,0,Breakfast,84.0,250.0,150.0,16.0,3.5,0.0,0.0,580.0,24.0,3.0,0.0,2.0
+94,Burger King,0,Breakfast,169.0,500.0,290.0,33.0,7.0,0.0,0.0,1140.0,48.0,7.0,0.0,4.0
+95,Burger King,0,Breakfast,225.0,670.0,390.0,44.0,9.0,0.0,0.0,1530.0,65.0,9.0,0.0,5.0
+96,Burger King,0,Breakfast,65.0,230.0,100.0,11.0,2.0,0.0,0.0,260.0,29.0,1.0,8.0,3.0
+97,Burger King,0,Breakfast,109.0,380.0,160.0,18.0,3.0,0.0,0.0,430.0,49.0,2.0,13.0,5.0
+98,Burger King,American Cheese (slice),Additional Options,11.0,40.0,30.0,3.5,2.0,0.0,10.0,180.0,1.0,0.0,0.0,2.0
+99,Burger King,Ketchup,Additional Options,10.0,10.0,0.0,0.0,0.0,0.0,0.0,125.0,3.0,0.0,2.0,0.0
+100,Burger King,Mayo,Additional Options,12.0,80.0,80.0,9.0,0.5,0.0,10.0,75.0,1.0,0.0,0.0,0.0
+101,Burger King,Strawberry or Grape Jam,Additional Options,12.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,6.0,0.0
+102,Burger King,Breakfast Syrup (1 oz),Additional Options,41.0,120.0,0.0,0.0,0.0,0.0,0.0,15.0,30.0,0.0,18.0,0.0
+103,Burger King,Barbecue Dipping Sauce (1 oz),Additional Options,28.0,40.0,0.0,0.0,0.0,0.0,0.0,310.0,11.0,0.0,10.0,0.0
+104,Burger King,Ranch Dipping Sauce (1 oz),Additional Options,28.0,140.0,140.0,15.0,2.5,0.0,10.0,85.0,1.0,0.0,1.0,1.0
+105,Burger King,Buffalo Dipping Sauce (1 oz),Additional Options,28.0,80.0,70.0,8.0,1.5,0.0,5.0,360.0,2.0,0.0,1.0,0.0
+106,Burger King,Zesty Onion Ring Dipping Sauce (1 oz),Additional Options,28.0,150.0,140.0,15.0,2.5,0.0,20.0,240.0,3.0,0.0,0.0,0.0
+107,Burger King,Honey Mustard Dipping Sauce (1 oz),Additional Options,28.0,90.0,60.0,6.0,1.0,0.0,10.0,180.0,8.0,0.0,7.0,0.0
+108,Burger King,Smoothie: Strawberry Banana 16 fl oz,Shakes/Smoothies,0.0,310.0,10.0,1.0,0.0,0.0,0.0,55.0,71.0,3.0,50.0,4.0
+109,Burger King,Oreo Shake,Shakes/Smoothies,0.0,720.0,180.0,20.0,12.0,0.5,65.0,540.0,118.0,1.0,98.0,16.0
+110,Burger King,Chocolate Oreo Shake,Shakes/Smoothies,0.0,740.0,190.0,22.0,13.0,0.5,70.0,680.0,121.0,1.0,101.0,17.0
+111,Burger King,Vanilla Milk Shake,Shakes/Smoothies,0.0,580.0,140.0,15.0,10.0,0.0,60.0,420.0,98.0,0.0,85.0,14.0
+112,Burger King,Hershey's Chocolate Milk Shake,Shakes/Smoothies,0.0,610.0,140.0,16.0,10.0,0.0,60.0,500.0,103.0,1.0,88.0,14.0
+113,Burger King,Strawberry Milk Shake,Shakes/Smoothies,0.0,640.0,140.0,15.0,10.0,0.0,60.0,440.0,113.0,0.0,99.0,14.0
+114,Burger King,Coca Cola Classic (Small),Soft Drinks,0.0,210.0,0.0,0.0,0.0,0.0,0.0,50.0,58.0,0.0,58.0,0.0
+115,Burger King,Coca Cola Classic (Medium),Soft Drinks,0.0,270.0,0.0,0.0,0.0,0.0,0.0,60.0,73.0,0.0,73.0,0.0
+116,Burger King,Coca Cola Classic (Large),Soft Drinks,0.0,390.0,0.0,0.0,0.0,0.0,0.0,85.0,105.0,0.0,105.0,0.0
+117,Burger King,Coca Cola Classic (King),Soft Drinks,0.0,510.0,0.0,0.0,0.0,0.0,0.0,115.0,138.0,0.0,138.0,0.0
+118,Burger King,Diet Coke (Small),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0
+119,Burger King,Diet Coke (Medium),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0
+120,Burger King,Diet Coke (Large),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0
+121,Burger King,Diet Coke (King),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,0.0,0.0,0.0,0.0
+122,Burger King,Sprite (Small),Soft Drinks,0.0,210.0,0.0,0.0,0.0,0.0,0.0,95.0,56.0,0.0,56.0,0.0
+123,Burger King,Sprite (Medium),Soft Drinks,0.0,260.0,0.0,0.0,0.0,0.0,0.0,120.0,70.0,0.0,70.0,0.0
+124,Burger King,Sprite (Large),Soft Drinks,0.0,380.0,0.0,0.0,0.0,0.0,0.0,170.0,102.0,0.0,102.0,0.0
+125,Burger King,Sprite (King),Soft Drinks,0.0,500.0,0.0,0.0,0.0,0.0,0.0,230.0,133.0,0.0,133.0,0.0
+126,Burger King,Dr. Pepper (Small),Soft Drinks,0.0,190.0,0.0,0.0,0.0,0.0,0.0,60.0,52.0,0.0,51.0,0.0
+127,Burger King,Dr. Pepper (Medium),Soft Drinks,0.0,240.0,0.0,0.0,0.0,0.0,0.0,75.0,65.0,0.0,64.0,0.0
+128,Burger King,Dr. Pepper (Large),Soft Drinks,0.0,350.0,0.0,0.0,0.0,0.0,0.0,105.0,94.0,0.0,93.0,0.0
+129,Burger King,Dr. Pepper (King),Soft Drinks,0.0,450.0,0.0,0.0,0.0,0.0,0.0,140.0,124.0,0.0,121.0,0.0
+130,Burger King,Barq's Root Beer (Small),Soft Drinks,0.0,240.0,0.0,0.0,0.0,0.0,0.0,100.0,65.0,0.0,65.0,0.0
+131,Burger King,Barq's Root Beer (Medium),Soft Drinks,0.0,300.0,0.0,0.0,0.0,0.0,0.0,120.0,81.0,0.0,81.0,0.0
+132,Burger King,Barq's Root Beer (Large),Soft Drinks,0.0,430.0,0.0,0.0,0.0,0.0,0.0,180.0,118.0,0.0,118.0,0.0
+133,Burger King,Barq's Root Beer (King),Soft Drinks,0.0,570.0,0.0,0.0,0.0,0.0,0.0,230.0,155.0,0.0,155.0,0.0
+134,Burger King,Cherry Coke (Small),Soft Drinks,0.0,220.0,0.0,0.0,0.0,0.0,0.0,55.0,61.0,0.0,61.0,0.0
+135,Burger King,Cherry Coke (Medium),Soft Drinks,0.0,280.0,0.0,0.0,0.0,0.0,0.0,70.0,76.0,0.0,76.0,0.0
+136,Burger King,Cherry Coke (Large),Soft Drinks,0.0,410.0,0.0,0.0,0.0,0.0,0.0,100.0,110.0,0.0,110.0,0.0
+137,Burger King,Cherry Coke (King),Soft Drinks,0.0,530.0,0.0,0.0,0.0,0.0,0.0,130.0,145.0,0.0,145.0,0.0
+138,Burger King,Fanta Orange (Small),Soft Drinks,0.0,230.0,0.0,0.0,0.0,0.0,0.0,60.0,62.0,0.0,61.0,0.0
+139,Burger King,Fanta Orange (Medium),Soft Drinks,0.0,280.0,0.0,0.0,0.0,0.0,0.0,70.0,78.0,0.0,77.0,0.0
+140,Burger King,Fanta Orange (Large),Soft Drinks,0.0,410.0,0.0,0.0,0.0,0.0,0.0,105.0,113.0,0.0,111.0,0.0
+141,Burger King,Fanta Orange (King),Soft Drinks,0.0,540.0,0.0,0.0,0.0,0.0,0.0,135.0,148.0,0.0,146.0,0.0
+142,Burger King,0,Soft Drinks,0.0,220.0,0.0,0.0,0.0,0.0,0.0,75.0,62.0,0.0,60.0,0.0
+143,Burger King,0,Soft Drinks,0.0,280.0,0.0,0.0,0.0,0.0,0.0,95.0,77.0,0.0,75.0,0.0
+144,Burger King,0,Soft Drinks,0.0,410.0,0.0,0.0,0.0,0.0,0.0,135.0,111.0,0.0,109.0,0.0
+145,Burger King,0,Soft Drinks,0.0,530.0,0.0,0.0,0.0,0.0,0.0,180.0,146.0,0.0,143.0,0.0
+146,Burger King,Minute Maid Light Lemonade (Small),Soft Drinks,0.0,10.0,0.0,0.0,0.0,0.0,0.0,60.0,3.0,0.0,0.0,0.0
+147,Burger King,Minute Maid Light Lemonade (Medium),Soft Drinks,0.0,10.0,0.0,0.0,0.0,0.0,0.0,70.0,4.0,0.0,0.0,0.0
+148,Burger King,Minute Maid Light Lemonade (Large),Soft Drinks,0.0,15.0,0.0,0.0,0.0,0.0,0.0,105.0,5.0,0.0,0.0,0.0
+149,Burger King,Minute Maid Light Lemonade (King),Soft Drinks,0.0,20.0,0.0,0.0,0.0,0.0,0.0,135.0,7.0,0.0,0.0,0.0
+150,Burger King,Sweet Tea (Small),Soft Drinks,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,35.0,0.0
+151,Burger King,Sweet Tea (Medium),Soft Drinks,0.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,0.0,49.0,0.0
+152,Burger King,Sweet Tea (Large),Soft Drinks,0.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0,0.0,71.0,0.0
+153,Burger King,Unsweetened Tea (Small),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,Burger King,Unsweetened Tea (Medium),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,Burger King,Unsweetened Tea (Large),Soft Drinks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Burger King,BK Cafe Coffee (Small),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,Burger King,BK Cafe Coffee (Medium),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,Burger King,BK Cafe Coffee (Large),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,Burger King,BK Cafe Decaf Coffee (Small),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,Burger King,BK Cafe Decaf Coffee (Medium),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,Burger King,BK Cafe Decaf Coffee (Large),Hot Coffees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,Burger King,BK Cafe Iced Vanilla Coffee (Small),Iced Coffees,0.0,150.0,70.0,8.0,4.0,0.0,25.0,30.0,21.0,0.0,21.0,1.0
+163,Burger King,BK Cafe Iced Vanilla Coffee (Medium),Iced Coffees,0.0,200.0,90.0,10.0,5.0,0.0,30.0,40.0,27.0,0.0,27.0,2.0
+164,Burger King,BK Cafe Iced Vanilla Coffee (Large),Iced Coffees,0.0,260.0,110.0,13.0,7.0,0.0,40.0,50.0,34.0,0.0,34.0,2.0
+165,Burger King,BK Cafe Iced Mocha Coffee (Small),Iced Coffees,0.0,180.0,70.0,8.0,4.0,0.0,25.0,40.0,27.0,1.0,25.0,2.0
+166,Burger King,BK Cafe Iced Mocha Coffee (Medium),Iced Coffees,0.0,240.0,90.0,10.0,6.0,0.0,30.0,55.0,35.0,1.0,32.0,2.0
+167,Burger King,BK Cafe Iced Mocha Coffee (Large),Iced Coffees,0.0,300.0,120.0,13.0,7.0,0.0,40.0,70.0,45.0,2.0,41.0,3.0
+168,Burger King,BK Cafe Mocha Frappe (Small),Frappes,0.0,300.0,80.0,8.0,5.0,0.0,30.0,200.0,50.0,1.0,41.0,7.0
+169,Burger King,BK Cafe Mocha Frappe (Medium),Frappes,0.0,400.0,90.0,10.0,7.0,0.0,40.0,270.0,68.0,1.0,58.0,9.0
+170,Burger King,BK Cafe Mocha Frappe (Large),Frappes,0.0,510.0,110.0,13.0,8.0,0.0,50.0,350.0,87.0,1.0,71.0,12.0
+171,Burger King,BK Cafe Caramel Frappe (Small),Frappes,0.0,300.0,80.0,8.0,5.0,0.0,35.0,210.0,50.0,0.0,41.0,7.0
+172,Burger King,BK Cafe Caramel Frappe (Medium),Frappes,0.0,400.0,90.0,10.0,7.0,0.0,40.0,280.0,68.0,0.0,56.0,9.0
+173,Burger King,BK Cafe Caramel Frappe (Large),Frappes,0.0,500.0,110.0,12.0,8.0,0.0,50.0,350.0,86.0,0.0,71.0,11.0
+174,Mc Donalds,Hamburger,Sandwiches,100.0,250.0,80.0,9.0,3.5,0.5,25.0,520.0,31.0,2.0,6.0,12.0
+175,Mc Donalds,Cheeseburger,Sandwiches,114.0,300.0,110.0,12.0,6.0,0.5,40.0,750.0,33.0,2.0,6.0,15.0
+176,Mc Donalds,Double Cheeseburger,Sandwiches,165.0,440.0,210.0,23.0,11.0,1.5,80.0,1150.0,34.0,2.0,7.0,25.0
+177,Mc Donalds,McDouble,Sandwiches,151.0,390.0,170.0,19.0,8.0,1.0,65.0,920.0,33.0,2.0,7.0,22.0
+178,Mc Donalds,Quarter Pounder with Cheese,Sandwiches,198.0,510.0,230.0,26.0,12.0,1.5,90.0,1190.0,40.0,3.0,9.0,29.0
+179,Mc Donalds,Double Quarter Pounder with Cheese,Sandwiches,279.0,740.0,380.0,42.0,19.0,2.5,155.0,1380.0,40.0,3.0,9.0,48.0
+180,Mc Donalds,Big Mac,Sandwiches,214.0,540.0,260.0,29.0,10.0,1.5,75.0,1040.0,45.0,3.0,9.0,25.0
+181,Mc Donalds,Big N Tasty,Sandwiches,206.0,460.0,220.0,24.0,8.0,1.5,23.0,720.0,37.0,3.0,8.0,24.0
+182,Mc Donalds,Big N Tasty with Cheese,Sandwiches,220.0,510.0,250.0,28.0,11.0,1.5,28.0,960.0,38.0,3.0,8.0,27.0
+183,Mc Donalds,Angus Bacon & Cheese,Sandwiches,291.0,790.0,350.0,39.0,17.0,2.0,49.0,2070.0,63.0,4.0,13.0,45.0
+184,Mc Donalds,Angus Deluxe,Sandwiches,314.0,750.0,350.0,39.0,16.0,2.0,45.0,1700.0,61.0,4.0,10.0,40.0
+185,Mc Donalds,Angus Mushroom & Swiss,Sandwiches,283.0,770.0,360.0,40.0,17.0,2.0,46.0,1170.0,59.0,4.0,8.0,44.0
+186,Mc Donalds,0,Sandwiches,142.0,380.0,170.0,18.0,3.5,0.0,14.0,640.0,38.0,2.0,5.0,15.0
+187,Mc Donalds,McChicken,Sandwiches,143.0,360.0,150.0,16.0,3.0,0.0,11.0,830.0,40.0,2.0,5.0,14.0
+188,Mc Donalds,McRib,Sandwiches,209.0,500.0,240.0,26.0,10.0,0.0,23.0,980.0,44.0,3.0,11.0,22.0
+189,Mc Donalds,Premium Grilled Chicken Classic Sandwich,Sandwiches,201.0,360.0,80.0,9.0,2.0,0.0,21.0,820.0,41.0,4.0,8.0,27.0
+190,Mc Donalds,Premium Crispy Chicken Classic Sandwich,Sandwiches,213.0,510.0,200.0,22.0,3.5,0.0,16.0,990.0,56.0,3.0,10.0,24.0
+191,Mc Donalds,Premium Grilled Chicken Club Sandwich,Sandwiches,224.0,460.0,150.0,17.0,6.0,0.0,30.0,1040.0,43.0,4.0,9.0,35.0
+192,Mc Donalds,Premium Crispy Chicken Club Sandwich,Sandwiches,237.0,620.0,260.0,29.0,7.0,0.0,24.0,1200.0,57.0,3.0,11.0,31.0
+193,Mc Donalds,Premium Grilled Chicken Ranch BLT Sandwich,Sandwiches,203.0,380.0,90.0,10.0,3.0,0.0,25.0,1000.0,41.0,4.0,9.0,31.0
+194,Mc Donalds,Premium Crispy Chicken Ranch BLT Sandwich,Sandwiches,215.0,540.0,210.0,23.0,4.5,0.0,19.0,1160.0,56.0,3.0,11.0,27.0
+195,Mc Donalds,Southern Style Crispy Chicken Sandwich,Sandwiches,161.0,400.0,150.0,17.0,3.0,0.0,16.0,1030.0,39.0,1.0,6.0,24.0
+196,Mc Donalds,Ranch Snack Wrap (Crispy),Sandwiches,117.0,340.0,150.0,17.0,4.5,0.0,10.0,810.0,33.0,1.0,2.0,14.0
+197,Mc Donalds,Ranch Snack Wrap (Grilled),Sandwiches,122.0,270.0,90.0,10.0,4.0,0.0,15.0,830.0,26.0,1.0,2.0,18.0
+198,Mc Donalds,Honey Mustard Snack Wrap (Crispy),Sandwiches,118.0,330.0,140.0,16.0,4.5,0.0,10.0,780.0,34.0,1.0,4.0,14.0
+199,Mc Donalds,Honey Mustard Snack Wrap (Grilled),Sandwiches,124.0,260.0,80.0,9.0,3.5,0.0,15.0,800.0,27.0,1.0,4.0,18.0
+200,Mc Donalds,Chipotle BBQ Snack Wrap (Crispy),Sandwiches,120.0,330.0,140.0,15.0,4.5,0.0,9.0,810.0,35.0,1.0,4.0,14.0
+201,Mc Donalds,Chipotle BBQ Snack Wrap (Grilled),Sandwiches,125.0,260.0,80.0,9.0,3.5,0.0,14.0,830.0,28.0,1.0,5.0,18.0
+202,Mc Donalds,Angus Bacon & Cheese Snack Wrap,Sandwiches,145.0,390.0,190.0,21.0,9.0,1.0,25.0,1080.0,28.0,1.0,4.0,21.0
+203,Mc Donalds,Angus Chipotle BBQ Bacon,Sandwiches,294.0,800.0,350.0,39.0,18.0,2.0,49.0,2020.0,66.0,4.0,16.0,45.0
+204,Mc Donalds,Angus Chipotle BBQ Bacon Snack Wrap,Sandwiches,148.0,400.0,190.0,22.0,10.0,1.0,75.0,1060.0,30.0,1.0,6.0,21.0
+205,Mc Donalds,Angus Deluxe Snack Wrap,Sandwiches,170.0,410.0,220.0,25.0,10.0,1.5,75.0,990.0,27.0,2.0,3.0,20.0
+206,Mc Donalds,Angus Mushroom & Swiss Snack Wrap,Sandwiches,162.0,430.0,230.0,26.0,10.0,1.5,75.0,730.0,27.0,2.0,2.0,22.0
+207,Mc Donalds,Mac Snack Wrap,Sandwiches,126.0,330.0,170.0,19.0,7.0,1.0,45.0,690.0,26.0,1.0,3.0,15.0
+208,Mc Donalds,Small French Fries,French Fries,71.0,230.0,100.0,11.0,1.5,0.0,0.0,160.0,29.0,3.0,0.0,3.0
+209,Mc Donalds,Medium French Fries,French Fries,117.0,380.0,170.0,19.0,2.5,0.0,0.0,270.0,48.0,5.0,0.0,4.0
+210,Mc Donalds,Large French Fries,French Fries,154.0,500.0,220.0,25.0,3.5,0.0,0.0,350.0,63.0,6.0,0.0,6.0
+211,Mc Donalds,Ketchup Packet,French Fries,10.0,15.0,0.0,0.0,0.0,0.0,0.0,110.0,3.0,0.0,2.0,0.0
+212,Mc Donalds,Salt Packet,French Fries,0.7,0.0,0.0,0.0,0.0,0.0,0.0,270.0,0.0,0.0,0.0,0.0
+213,Mc Donalds,Chicken McNuggets (4pc),Chicken & Sauce,65.0,190.0,110.0,12.0,2.0,0.0,25.0,360.0,12.0,1.0,0.0,9.0
+214,Mc Donalds,Chicken McNuggets (6pc),Chicken & Sauce,97.0,280.0,160.0,18.0,3.0,0.0,40.0,540.0,18.0,1.0,0.0,13.0
+215,Mc Donalds,Chicken McNuggets (10pc),Chicken & Sauce,162.0,470.0,270.0,30.0,5.0,0.0,65.0,900.0,30.0,2.0,0.0,22.0
+216,Mc Donalds,Barbeque Sauce,Chicken & Sauce,28.0,50.0,0.0,0.0,0.0,0.0,0.0,260.0,12.0,0.0,10.0,0.0
+217,Mc Donalds,Honey,Chicken & Sauce,14.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,11.0,0.0
+218,Mc Donalds,Hot Mustard Sauce,Chicken & Sauce,28.0,60.0,20.0,2.5,0.0,0.0,5.0,250.0,9.0,2.0,6.0,1.0
+219,Mc Donalds,Sweet 'N Sour Sauce,Chicken & Sauce,28.0,50.0,0.0,0.0,0.0,0.0,0.0,150.0,12.0,0.0,10.0,0.0
+220,Mc Donalds,Chicken Selects Premium Breast Strips (3pc),Chicken & Sauce,131.0,400.0,210.0,24.0,3.5,0.0,50.0,1010.0,23.0,0.0,0.0,23.0
+221,Mc Donalds,Chicken Selects Premium Breast Strips (5pc),Chicken & Sauce,219.0,660.0,360.0,40.0,6.0,0.0,85.0,1680.0,39.0,0.0,0.0,38.0
+222,Mc Donalds,Spicy Buffalo Sauce,Chicken & Sauce,35.0,60.0,50.0,6.0,1.0,0.0,0.0,800.0,1.0,1.0,0.0,0.0
+223,Mc Donalds,Creamy Ranch Sauce,Chicken & Sauce,35.0,170.0,160.0,18.0,3.0,0.0,10.0,270.0,2.0,0.0,1.0,0.0
+224,Mc Donalds,Tangy Honey Mustard Sauce,Chicken & Sauce,35.0,60.0,20.0,2.0,0.0,0.0,5.0,140.0,10.0,0.0,8.0,0.0
+225,Mc Donalds,Sothwestern Chipotle Barbeque Sauce,Chicken & Sauce,5.0,60.0,0.0,0.0,0.0,0.0,0.0,210.0,15.0,1.0,11.0,0.0
+226,Mc Donalds,Premium Southwest Salad with Grilled Chicken,Salads,350.0,320.0,80.0,9.0,3.0,0.0,70.0,960.0,30.0,6.0,11.0,30.0
+227,Mc Donalds,Premium Southwest salad with Crispy Chicken,Salads,353.0,430.0,180.0,20.0,4.0,0.0,55.0,920.0,38.0,6.0,12.0,26.0
+228,Mc Donalds,Premium Southwest Salad,Salads,231.0,140.0,40.0,4.5,2.0,0.0,10.0,150.0,20.0,6.0,6.0,6.0
+229,Mc Donalds,Premium Bacon Ranch Salad with Grilled Chicken,Salads,321.0,260.0,90.0,9.0,4.0,0.0,90.0,1010.0,12.0,3.0,5.0,33.0
+230,Mc Donalds,Premium Bacon Ranch Salad with Crispy Chicken,Salads,324.0,370.0,180.0,20.0,6.0,0.0,75.0,970.0,20.0,3.0,6.0,29.0
+231,Mc Donalds,Premium Bacon Ranch Salad,Salads,223.0,140.0,70.0,7.0,3.5,0.0,25.0,300.0,10.0,3.0,4.0,9.0
+232,Mc Donalds,Premium Caesar Salad with Grilled Chicken,Salads,311.0,220.0,60.0,6.0,3.0,0.0,75.0,890.0,12.0,3.0,5.0,30.0
+233,Mc Donalds,Premium Caesar Salad with Crispy Chicken,Salads,314.0,330.0,150.0,17.0,4.5,0.0,60.0,840.0,20.0,3.0,6.0,26.0
+234,Mc Donalds,Premium Caesar Salad,Salads,213.0,90.0,35.0,4.0,2.5,0.0,10.0,180.0,9.0,3.0,4.0,7.0
+235,Mc Donalds,Side Salad,Salads,87.0,20.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,1.0,2.0,1.0
+236,Mc Donalds,Butter Garlic Croutons,Salads,14.0,60.0,15.0,1.5,0.0,0.0,0.0,140.0,10.0,1.0,0.0,2.0
+237,Mc Donalds,Snack Size Fruit & Walnut Salad,Salads,163.0,210.0,70.0,8.0,1.5,0.0,5.0,60.0,31.0,2.0,25.0,4.0
+238,Mc Donalds,Newman's Own Creamy Southwest Dressing,Salad Dressings,0.0,100.0,50.0,6.0,1.0,0.0,20.0,340.0,11.0,0.0,3.0,1.0
+239,Mc Donalds,Newman's Own Creamy Caesar Dressing,Salad Dressings,0.0,190.0,170.0,18.0,3.5,0.0,20.0,500.0,4.0,0.0,2.0,2.0
+240,Mc Donalds,Newman's Own Low Fat Balsamic Vinaigrette,Salad Dressings,0.0,40.0,25.0,3.0,0.0,0.0,0.0,730.0,4.0,0.0,3.0,0.0
+241,Mc Donalds,Newman's Own Low Fat Family Recipe Italian Dressing,Salad Dressings,0.0,60.0,20.0,2.5,0.0,0.0,0.0,730.0,8.0,0.0,1.0,1.0
+242,Mc Donalds,Newman's Own Ranch Dressing,Salad Dressings,0.0,170.0,130.0,15.0,2.5,0.0,20.0,530.0,9.0,0.0,4.0,1.0
+243,Mc Donalds,Egg McMuffin,Breakfast,137.0,300.0,110.0,12.0,5.0,0.0,260.0,820.0,30.0,2.0,3.0,18.0
+244,Mc Donalds,Sausage McMuffin,Breakfast,111.0,370.0,200.0,22.0,8.0,0.0,45.0,850.0,29.0,2.0,2.0,14.0
+245,Mc Donalds,Sausage McMuffin with Egg,Breakfast,162.0,450.0,250.0,27.0,10.0,0.0,285.0,920.0,30.0,2.0,2.0,21.0
+246,Mc Donalds,English Muffin,Breakfast,56.0,160.0,30.0,3.0,0.5,0.0,0.0,280.0,27.0,2.0,2.0,5.0
+247,Mc Donalds,Bacon. Egg & Cheese Biscuit (Regular),Breakfast,140.0,420.0,210.0,23.0,12.0,0.0,235.0,1160.0,37.0,2.0,3.0,15.0
+248,Mc Donalds,Bacon. Egg & Cheese Biscuit (Large),Breakfast,154.0,480.0,240.0,27.0,12.0,0.0,235.0,1270.0,43.0,3.0,4.0,15.0
+249,Mc Donalds,Sausage Biscuit with Egg (Regular),Breakfast,163.0,510.0,290.0,33.0,14.0,0.0,250.0,1170.0,36.0,2.0,2.0,18.0
+250,Mc Donalds,Sausage Biscuit with Egg (Large),Breakfast,177.0,570.0,330.0,37.0,15.0,0.0,250.0,1280.0,42.0,3.0,3.0,18.0
+251,Mc Donalds,Sausage Biscuit (Regular),Breakfast,117.0,430.0,240.0,27.0,12.0,0.0,30.0,1080.0,34.0,2.0,2.0,11.0
+252,Mc Donalds,Sausage Biscuit (Large),Breakfast,131.0,480.0,280.0,31.0,13.0,0.0,30.0,1190.0,39.0,3.0,3.0,11.0
+253,Mc Donalds,Southern Style Chicken Biscuit (Regular),Breakfast,143.0,410.0,180.0,20.0,8.0,0.0,30.0,1180.0,41.0,2.0,3.0,17.0
+254,Mc Donalds,Southern Style Chicken Biscuit (Large),Breakfast,157.0,470.0,220.0,24.0,9.0,0.0,30.0,1290.0,46.0,3.0,4.0,17.0
+255,Mc Donalds,Steak. Egg & Cheese Bagel,Breakfast,231.0,660.0,300.0,33.0,12.0,1.0,300.0,1580.0,56.0,3.0,7.0,33.0
+256,Mc Donalds,Bacon. Egg & cheese McGriddles,Breakfast,164.0,420.0,160.0,18.0,8.0,0.0,240.0,1110.0,48.0,2.0,15.0,15.0
+257,Mc Donalds,Sausage. Egg & cheese McGriddles,Breakfast,201.0,560.0,290.0,32.0,12.0,0.0,265.0,1360.0,48.0,2.0,15.0,20.0
+258,Mc Donalds,Sausage McGriddles,Breakfast,141.0,420.0,200.0,22.0,8.0,0.0,35.0,1030.0,44.0,2.0,15.0,11.0
+259,Mc Donalds,Big Breakfast (Regular),Breakfast,269.0,740.0,430.0,48.0,17.0,0.0,555.0,1560.0,51.0,3.0,3.0,28.0
+260,Mc Donalds,Big Breakfast (Large),Breakfast,283.0,800.0,470.0,52.0,18.0,0.0,555.0,1680.0,56.0,4.0,3.0,28.0
+261,Mc Donalds,Big Breakfast with Hotcakes (Regular),Breakfast,420.0,1090.0,510.0,56.0,19.0,0.0,575.0,2150.0,111.0,6.0,17.0,36.0
+262,Mc Donalds,Big Breakfast with Hotcakes (Large),Breakfast,434.0,1150.0,540.0,60.0,20.0,0.0,575.0,2260.0,116.0,7.0,17.0,36.0
+263,Mc Donalds,Sausage Burrito,Breakfast,111.0,300.0,140.0,16.0,7.0,0.0,115.0,830.0,26.0,1.0,2.0,12.0
+264,Mc Donalds,McSkillet Burrito with Sausage,Breakfast,238.0,610.0,320.0,36.0,14.0,0.5,410.0,1390.0,44.0,3.0,4.0,27.0
+265,Mc Donalds,Hotcakes,Breakfast,151.0,350.0,80.0,9.0,2.0,0.0,20.0,590.0,60.0,3.0,14.0,8.0
+266,Mc Donalds,Hotcakes & Sausage,Breakfast,192.0,520.0,210.0,24.0,7.0,0.0,50.0,930.0,61.0,3.0,14.0,15.0
+267,Mc Donalds,Hotcake Syrup,Breakfast,60.0,180.0,0.0,0.0,0.0,0.0,0.0,20.0,45.0,0.0,32.0,0.0
+268,Mc Donalds,Whipped margarine,Breakfast,6.0,40.0,40.0,4.5,1.5,0.0,0.0,55.0,0.0,0.0,0.0,0.0
+269,Mc Donalds,Hash Brown,Breakfast,56.0,150.0,80.0,9.0,1.5,0.0,0.0,310.0,15.0,2.0,0.0,1.0
+270,Mc Donalds,Grape Jam,Breakfast,14.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0
+271,Mc Donalds,Strawberry Preserves,Breakfast,14.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0
+272,Mc Donalds,Bacon. Egg & Cheese Bagel,Breakfast,185.0,560.0,240.0,27.0,9.0,0.5,260.0,1300.0,56.0,3.0,7.0,24.0
+273,Mc Donalds,Fruit & Maple Oatmeal,Breakfast,253.0,290.0,40.0,4.5,2.0,0.0,10.0,160.0,57.0,5.0,32.0,5.0
+274,Mc Donalds,Fruit & Maple Oatmeal without Brown Sugar,Breakfast,251.0,260.0,40.0,4.5,2.0,0.0,10.0,115.0,48.0,5.0,18.0,5.0
+275,Mc Donalds,Fruit & Yogurt Parfait,Desserts/Shakes,149.0,160.0,20.0,2.0,1.0,0.0,5.0,85.0,31.0,1.0,21.0,4.0
+276,Mc Donalds,Low Fat Caramel Dip,Desserts/Shakes,21.0,70.0,5.0,0.5,0.0,0.0,5.0,35.0,15.0,0.0,9.0,0.0
+277,Mc Donalds,Vanilla Reduced Fat Ice Cream Cone,Desserts/Shakes,90.0,150.0,35.0,3.5,2.0,0.0,15.0,60.0,24.0,0.0,18.0,4.0
+278,Mc Donalds,Kiddie Cone,Desserts/Shakes,29.0,45.0,10.0,1.0,0.5,0.0,5.0,20.0,8.0,0.0,6.0,1.0
+279,Mc Donalds,Strawberry Sundae,Desserts/Shakes,178.0,280.0,60.0,6.0,4.0,0.0,25.0,95.0,49.0,1.0,45.0,6.0
+280,Mc Donalds,Hot Caramel Sundae,Desserts/Shakes,182.0,340.0,70.0,8.0,5.0,0.0,30.0,160.0,60.0,1.0,44.0,7.0
+281,Mc Donalds,Hot Fudge Sundae,Desserts/Shakes,179.0,330.0,90.0,10.0,7.0,0.0,25.0,180.0,54.0,2.0,48.0,8.0
+282,Mc Donalds,Peanuts,Desserts/Shakes,7.0,45.0,30.0,3.5,0.5,0.0,0.0,0.0,2.0,1.0,0.0,2.0
+283,Mc Donalds,McFlurry with M&M's Candies,Desserts/Shakes,353.0,710.0,230.0,25.0,16.0,1.0,60.0,220.0,105.0,4.0,97.0,15.0
+284,Mc Donalds,McFlurry with OREO Cookies,Desserts/Shakes,329.0,580.0,170.0,19.0,10.0,1.0,50.0,320.0,89.0,3.0,73.0,13.0
+285,Mc Donalds,Baked Hot Apple Pie,Desserts/Shakes,77.0,250.0,110.0,13.0,7.0,0.0,0.0,170.0,32.0,4.0,13.0,2.0
+286,Mc Donalds,Cinnamon Melts,Desserts/Shakes,114.0,460.0,170.0,19.0,9.0,0.0,15.0,370.0,66.0,3.0,32.0,6.0
+287,Mc Donalds,McDonaldland Cookies,Desserts/Shakes,57.0,260.0,70.0,8.0,2.5,0.0,0.0,300.0,43.0,1.0,13.0,4.0
+288,Mc Donalds,Chocolate Chip Cookie,Desserts/Shakes,33.0,160.0,70.0,8.0,3.5,0.0,10.0,90.0,21.0,1.0,15.0,2.0
+289,Mc Donalds,Oatmeal Raisin Cookie,Desserts/Shakes,33.0,150.0,50.0,6.0,2.5,0.0,10.0,135.0,22.0,1.0,13.0,2.0
+290,Mc Donalds,Sugar Cookie,Desserts/Shakes,33.0,160.0,60.0,7.0,3.0,0.0,5.0,120.0,21.0,0.0,11.0,2.0
+291,Mc Donalds,Apple Dippers with Low Fat Caramel Dip,Desserts/Shakes,89.0,100.0,5.0,0.5,0.0,0.0,5.0,35.0,23.0,0.0,15.0,0.0
+292,Mc Donalds,Chocolate McCafe Shake (Small),Desserts/Shakes,332.0,580.0,150.0,17.0,10.0,1.0,50.0,240.0,94.0,1.0,77.0,11.0
+293,Mc Donalds,Chocolate McCafe Shake (Medium),Desserts/Shakes,420.0,720.0,180.0,20.0,12.0,1.0,60.0,300.0,119.0,1.0,98.0,15.0
+294,Mc Donalds,Chocolate McCafe Shake (Large),Desserts/Shakes,516.0,880.0,220.0,24.0,15.0,1.5,75.0,370.0,147.0,1.0,121.0,18.0
+295,Mc Donalds,Chocolate Triple Thick Shake (Small),Desserts/Shakes,267.0,440.0,90.0,10.0,6.0,0.5,40.0,190.0,76.0,1.0,63.0,10.0
+296,Mc Donalds,Chocolate Triple Thick Shake (Medium),Desserts/Shakes,356.0,580.0,120.0,14.0,8.0,1.0,50.0,250.0,102.0,1.0,84.0,13.0
+297,Mc Donalds,Chocolate Triple Thick Shake (Large),Desserts/Shakes,473.0,770.0,160.0,18.0,11.0,1.0,70.0,330.0,134.0,1.0,111.0,18.0
+298,Mc Donalds,Chocolate Triple Thick Shake (XLarge),Desserts/Shakes,713.0,1160.0,240.0,27.0,16.0,2.0,100.0,510.0,203.0,2.0,168.0,27.0
+299,Mc Donalds,Snack Size McFlurry with M&M's Candies,Desserts/Shakes,207.0,430.0,140.0,16.0,10.0,0.5,35.0,130.0,64.0,2.0,59.0,9.0
+300,Mc Donalds,Snack Size McFlurry with OREO Cookies,Desserts/Shakes,190.0,340.0,100.0,12.0,6.0,0.0,30.0,200.0,53.0,2.0,43.0,8.0
+301,Mc Donalds,Strawberry McCafe Shake (Small),Desserts/Shakes,340.0,570.0,150.0,17.0,10.0,1.0,50.0,170.0,92.0,0.0,79.0,11.0
+302,Mc Donalds,Strawberry McCafe Shake (Medium),Desserts/Shakes,430.0,710.0,180.0,20.0,12.0,1.0,65.0,210.0,116.0,0.0,100.0,14.0
+303,Mc Donalds,Strawberry McCafe Shake (Large),Desserts/Shakes,528.0,860.0,220.0,24.0,15.0,1.5,75.0,260.0,144.0,0.0,124.0,18.0
+304,Mc Donalds,Strawberry Triple Thick Shake (Small),Desserts/Shakes,265.0,420.0,90.0,10.0,6.0,0.5,40.0,130.0,73.0,0.0,63.0,10.0
+305,Mc Donalds,Strawberry Triple Thick Shake (Medium),Desserts/Shakes,354.0,560.0,120.0,13.0,8.0,1.0,50.0,170.0,97.0,0.0,84.0,13.0
+306,Mc Donalds,Strawberry Triple Thick Shake (Large),Desserts/Shakes,469.0,740.0,160.0,18.0,11.0,1.0,70.0,230.0,128.0,0.0,111.0,17.0
+307,Mc Donalds,Strawberry Triple Thick Shake (XLarge),Desserts/Shakes,708.0,1110.0,240.0,26.0,16.0,2.0,100.0,350.0,194.0,0.0,168.0,25.0
+308,Mc Donalds,Vanilla McCafe Shake (Small),Desserts/Shakes,323.0,540.0,150.0,16.0,10.0,1.0,45.0,170.0,88.0,0.0,64.0,10.0
+309,Mc Donalds,Vanilla McCafe Shake (Medium),Desserts/Shakes,412.0,680.0,180.0,20.0,12.0,1.0,60.0,220.0,111.0,0.0,82.0,14.0
+310,Mc Donalds,Vanilla McCafe Shake (Large),Desserts/Shakes,512.0,830.0,210.0,24.0,14.0,1.5,75.0,270.0,138.0,0.0,103.0,17.0
+311,Mc Donalds,Vanilla Triple Thick Shake (XLarge),Desserts/Shakes,708.0,1110.0,240.0,26.0,16.0,2.0,100.0,370.0,193.0,0.0,145.0,25.0
+312,Mc Donalds,Vanilla Triple Thick Shake (Small),Desserts/Shakes,266.0,420.0,90.0,10.0,6.0,0.5,40.0,140.0,72.0,0.0,54.0,9.0
+313,Mc Donalds,Vanilla Triple Thick Shake (Medium),Desserts/Shakes,354.0,550.0,120.0,13.0,8.0,1.0,50.0,190.0,96.0,0.0,72.0,13.0
+314,Mc Donalds,Vanilla Triple Thick Shake (Large),Desserts/Shakes,470.0,740.0,160.0,18.0,11.0,1.0,70.0,250.0,128.0,0.0,96.0,17.0
+315,Mc Donalds,1% Low Fat Milk Jug,Beverages,0.0,100.0,20.0,2.5,1.5,0.0,10.0,125.0,12.0,0.0,12.0,8.0
+316,Mc Donalds,1% Low Fat Chocolate Milk Jug,Beverages,0.0,170.0,25.0,3.0,1.5,0.0,5.0,150.0,26.0,1.0,25.0,9.0
+317,Mc Donalds,Minute Maid 100% Apple Juice Box,Beverages,0.0,100.0,0.0,0.0,0.0,0.0,0.0,15.0,23.0,0.0,22.0,0.0
+318,Mc Donalds,Dasani Water,Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,Mc Donalds,Minute maid Orange Juice (Small),Beverages,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,30.0,2.0
+320,Mc Donalds,Minute Maid Orange Juice (Medium),Beverages,0.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,0.0,39.0,3.0
+321,Mc Donalds,Minute Maid Orange Juice (Large),Beverages,0.0,280.0,0.0,0.0,0.0,0.0,0.0,5.0,58.0,0.0,58.0,4.0
+322,Mc Donalds,0,Beverages,0.0,110.0,0.0,0.0,0.0,0.0,0.0,5.0,29.0,0.0,29.0,0.0
+323,Mc Donalds,0,Beverages,0.0,150.0,0.0,0.0,0.0,0.0,0.0,10.0,40.0,0.0,40.0,0.0
+324,Mc Donalds,0,Beverages,0.0,210.0,0.0,0.0,0.0,0.0,0.0,15.0,58.0,0.0,58.0,0.0
+325,Mc Donalds,0,Beverages,0.0,310.0,0.0,0.0,0.0,0.0,0.0,20.0,86.0,0.0,86.0,0.0
+326,Mc Donalds,Diet Coke (Child),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+327,Mc Donalds,Diet Coke (Small),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0
+328,Mc Donalds,Diet Coke (Medium),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0
+329,Mc Donalds,Diet Coke (Large),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0
+330,Mc Donalds,Sprite (Child),Beverages,0.0,110.0,0.0,0.0,0.0,0.0,0.0,30.0,28.0,0.0,28.0,0.0
+331,Mc Donalds,Sprite (Small),Beverages,0.0,150.0,0.0,0.0,0.0,0.0,0.0,40.0,39.0,0.0,39.0,0.0
+332,Mc Donalds,Sprite (Medium),Beverages,0.0,210.0,0.0,0.0,0.0,0.0,0.0,55.0,56.0,0.0,56.0,0.0
+333,Mc Donalds,Sprite (Large),Beverages,0.0,310.0,0.0,0.0,0.0,0.0,0.0,80.0,83.0,0.0,83.0,0.0
+334,Mc Donalds,0,Beverages,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,0.0,32.0,0.0
+335,Mc Donalds,0,Beverages,0.0,160.0,0.0,0.0,0.0,0.0,0.0,5.0,44.0,0.0,44.0,0.0
+336,Mc Donalds,0,Beverages,0.0,240.0,0.0,0.0,0.0,0.0,0.0,10.0,64.0,0.0,64.0,0.0
+337,Mc Donalds,0,Beverages,0.0,350.0,0.0,0.0,0.0,0.0,0.0,10.0,94.0,0.0,94.0,0.0
+338,Mc Donalds,Powerrade Mountain Blast (Child),Beverages,0.0,70.0,0.0,0.0,0.0,0.0,0.0,65.0,20.0,0.0,16.0,0.0
+339,Mc Donalds,Powerrade Mountain Blast (Small),Beverages,0.0,100.0,0.0,0.0,0.0,0.0,0.0,85.0,27.0,0.0,21.0,0.0
+340,Mc Donalds,Powerrade Mountain Blast (Medium),Beverages,0.0,150.0,0.0,0.0,0.0,0.0,0.0,130.0,39.0,0.0,31.0,0.0
+341,Mc Donalds,Powerrade Mountain Blast (Large),Beverages,0.0,220.0,0.0,0.0,0.0,0.0,0.0,190.0,58.0,0.0,46.0,0.0
+342,Mc Donalds,Iced Tea (Child),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+343,Mc Donalds,Iced Tea (Small),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+344,Mc Donalds,Iced Tea (Medium),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+345,Mc Donalds,Iced Tea (Large),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,1.0,0.0,0.0,0.0
+346,Mc Donalds,Coffee (Small),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,Mc Donalds,Coffee (Large),Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+348,Mc Donalds,Coffee Cream,Beverages,0.0,20.0,20.0,2.0,1.5,0.0,10.0,15.0,0.0,0.0,0.0,0.0
+349,Mc Donalds,Sugar Packet,Beverages,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0
+350,Mc Donalds,Equal 0 Cal Sweetener,Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+351,Mc Donalds,Splenda No Calorie Sweetener,Beverages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+352,Mc Donalds,0,Beverages,0.0,130.0,50.0,5.0,3.5,0.0,20.0,80.0,21.0,0.0,20.0,1.0
+353,Mc Donalds,0,Beverages,0.0,190.0,70.0,8.0,5.0,0.0,30.0,115.0,27.0,0.0,27.0,2.0
+354,Mc Donalds,0,Beverages,0.0,270.0,100.0,11.0,7.0,0.0,40.0,160.0,41.0,0.0,41.0,2.0
+355,Mc Donalds,0,Beverages,0.0,130.0,50.0,5.0,3.5,0.0,20.0,40.0,21.0,0.0,21.0,1.0
+356,Mc Donalds,0,Beverages,0.0,190.0,70.0,8.0,5.0,0.0,30.0,60.0,29.0,0.0,29.0,2.0
+357,Mc Donalds,0,Beverages,0.0,270.0,100.0,11.0,7.0,0.0,40.0,85.0,43.0,0.0,43.0,2.0
+358,Mc Donalds,0,Beverages,0.0,140.0,50.0,5.0,3.5,0.0,20.0,40.0,22.0,0.0,22.0,1.0
+359,Mc Donalds,0,Beverages,0.0,200.0,70.0,8.0,5.0,0.0,30.0,60.0,30.0,0.0,30.0,2.0
+360,Mc Donalds,0,Beverages,0.0,280.0,100.0,11.0,7.0,0.0,40.0,85.0,45.0,0.0,45.0,2.0
+361,Mc Donalds,0,Beverages,0.0,130.0,50.0,5.0,3.5,0.0,20.0,40.0,21.0,0.0,21.0,1.0
+362,Mc Donalds,0,Beverages,0.0,190.0,70.0,8.0,5.0,0.0,30.0,60.0,29.0,0.0,28.0,2.0
+363,Mc Donalds,0,Beverages,0.0,270.0,100.0,11.0,7.0,0.0,40.0,80.0,43.0,0.0,43.0,2.0
+364,Mc Donalds,Iced Coffee with Sugar Free Vanilla Syrup (Small),Beverages,0.0,60.0,50.0,5.0,3.5,0.0,20.0,70.0,8.0,0.0,1.0,1.0
+365,Mc Donalds,Iced Coffee with Sugar Free Vanilla Syrup (Medium),Beverages,0.0,90.0,70.0,8.0,5.0,0.0,30.0,100.0,11.0,0.0,2.0,2.0
+366,Mc Donalds,Iced Coffee with Sugar Free Vanilla Syrup (Large),Beverages,0.0,120.0,100.0,11.0,7.0,0.0,40.0,140.0,16.0,0.0,2.0,2.0
+367,Mc Donalds,Sweet Tea (Child),Beverages,0.0,110.0,0.0,0.0,0.0,0.0,0.0,5.0,27.0,0.0,27.0,0.0
+368,Mc Donalds,Sweet Tea (Large),Beverages,0.0,280.0,0.0,0.0,0.0,0.0,0.0,15.0,69.0,0.0,69.0,1.0
+369,Mc Donalds,Sweet Tea (Medium),Beverages,0.0,180.0,0.0,0.0,0.0,0.0,0.0,10.0,45.0,0.0,45.0,1.0
+370,Mc Donalds,Sweet Tea (Small),Beverages,0.0,150.0,0.0,0.0,0.0,0.0,0.0,10.0,36.0,0.0,36.0,1.0
+371,Mc Donalds,Nonfat Cappucino (Small),0,0.0,60.0,0.0,0.0,0.0,0.0,5.0,85.0,9.0,0.0,9.0,6.0
+372,Mc Donalds,Nonfat Cappucino (Medium),0,0.0,80.0,0.0,0.0,0.0,0.0,5.0,110.0,12.0,0.0,12.0,8.0
+373,Mc Donalds,Nonfat Cappucino (Large),0,0.0,90.0,0.0,0.0,0.0,0.0,5.0,130.0,13.0,0.0,13.0,9.0
+374,Mc Donalds,Nonfat Latte (Small),0,0.0,90.0,0.0,0.0,0.0,0.0,5.0,115.0,13.0,0.0,13.0,9.0
+375,Mc Donalds,Nonfat Latte (Medium),0,0.0,110.0,0.0,0.0,0.0,0.0,5.0,140.0,15.0,0.0,15.0,10.0
+376,Mc Donalds,Nonfat Latte (Large),0,0.0,120.0,0.0,0.0,0.0,0.0,5.0,160.0,18.0,0.0,18.0,12.0
+377,Mc Donalds,Nonfat Caramel Cappucino (Small),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,120.0,33.0,0.0,32.0,5.0
+378,Mc Donalds,Nonfat Caramel Cappucino (Medium),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,150.0,41.0,0.0,41.0,6.0
+379,Mc Donalds,Nonfat Caramel Cappucino (Large),0,0.0,230.0,0.0,0.0,0.0,0.0,5.0,180.0,49.0,0.0,49.0,7.0
+380,Mc Donalds,Nonfat Caramel Latte (Small),0,0.0,170.0,0.0,0.0,0.0,0.0,5.0,150.0,36.0,0.0,36.0,7.0
+381,Mc Donalds,Nonfat Caramel Latte (Medium),0,0.0,220.0,0.0,0.0,0.0,0.0,5.0,180.0,45.0,0.0,45.0,9.0
+382,Mc Donalds,Nonfat Caramel Latte (Large),0,0.0,260.0,0.0,0.0,0.0,0.0,5.0,220.0,53.0,0.0,53.0,10.0
+383,Mc Donalds,Nonfat Hazelnut Cappucino (Small),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,70.0,34.0,0.0,34.0,5.0
+384,Mc Donalds,Nonfat Hazelnut Cappucino (Medium),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,90.0,43.0,0.0,43.0,6.0
+385,Mc Donalds,Nonfat Hazelnut Cappucino (Large),0,0.0,230.0,0.0,0.0,0.0,0.0,5.0,100.0,51.0,0.0,51.0,7.0
+386,Mc Donalds,Nonfat Hazelnut Latte (Small),0,0.0,180.0,0.0,0.0,0.0,0.0,5.0,95.0,37.0,0.0,37.0,7.0
+387,Mc Donalds,Nonfat Hazelnut Latte (Medium),0,0.0,220.0,0.0,0.0,0.0,0.0,5.0,115.0,46.0,0.0,46.0,9.0
+388,Mc Donalds,Nonfat Hazelnut Latte (Large),0,0.0,260.0,0.0,0.0,0.0,0.0,5.0,135.0,55.0,0.0,55.0,10.0
+389,Mc Donalds,Nonfat Vanilla Cappucino (Small),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,70.0,34.0,0.0,34.0,5.0
+390,Mc Donalds,Nonfat Vanilla Cappucino (Medium),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,90.0,42.0,0.0,42.0,6.0
+391,Mc Donalds,Nonfat Vanilla Cappucino (Large),0,0.0,230.0,0.0,0.0,0.0,0.0,5.0,100.0,51.0,0.0,51.0,7.0
+392,Mc Donalds,Nonfat Vanilla Latte (Small),0,0.0,180.0,0.0,0.0,0.0,0.0,5.0,95.0,37.0,0.0,37.0,7.0
+393,Mc Donalds,Nonfat Vanilla Latte (Medium),0,0.0,220.0,0.0,0.0,0.0,0.0,5.0,115.0,46.0,0.0,46.0,9.0
+394,Mc Donalds,Nonfat Vanilla Latte (Large),0,0.0,260.0,0.0,0.0,0.0,0.0,5.0,135.0,55.0,0.0,55.0,10.0
+395,Mc Donalds,Nonfat Cappucino with Sugar Free Vanilla Syrup (Small),0,0.0,50.0,0.0,0.0,0.0,0.0,5.0,100.0,15.0,0.0,8.0,5.0
+396,Mc Donalds,Nonfat Cappucino with Sugar Free Vanilla Syrup (Medium),0,0.0,70.0,0.0,0.0,0.0,0.0,5.0,130.0,19.0,0.0,10.0,7.0
+397,Mc Donalds,Nonfat Cappucino with Sugar Free Vanilla Syrup (Large),0,0.0,80.0,0.0,0.0,0.0,0.0,5.0,150.0,22.0,0.0,11.0,8.0
+398,Mc Donalds,Nonfat Latte with Sugar Free Vanilla Syrup (Small),0,0.0,80.0,0.0,0.0,0.0,0.0,5.0,130.0,18.0,0.0,11.0,7.0
+399,Mc Donalds,Nonfat Latte with Sugar Free Vanilla Syrup (Medium),0,0.0,90.0,0.0,0.0,0.0,0.0,5.0,160.0,22.0,0.0,13.0,9.0
+400,Mc Donalds,Nonfat Latte with Sugar Free Vanilla Syrup (Large),0,0.0,110.0,0.0,0.0,0.0,0.0,5.0,190.0,27.0,0.0,15.0,11.0
+401,Mc Donalds,Mocha with Nonfat Milk (Small),0,0.0,240.0,45.0,5.0,3.0,0.0,5.0,130.0,41.0,0.0,34.0,7.0
+402,Mc Donalds,Mocha with Nonfat Milk (Medium),0,0.0,280.0,50.0,6.0,3.5,0.0,10.0,160.0,50.0,0.0,42.0,8.0
+403,Mc Donalds,Mocha with Nonfat Milk (Large),0,0.0,330.0,50.0,6.0,3.5,0.0,10.0,190.0,58.0,0.0,50.0,10.0
+404,Mc Donalds,Hot Chocolate with Nonfat Milk (Small),0,0.0,250.0,45.0,5.0,3.0,0.0,10.0,140.0,43.0,0.0,37.0,8.0
+405,Mc Donalds,Hot Chocolate with Nonfat Milk (Medium),0,0.0,310.0,50.0,6.0,3.5,0.0,10.0,190.0,55.0,0.0,47.0,11.0
+406,Mc Donalds,Hot Chocolate with Nonfat Milk (Large),0,0.0,390.0,50.0,6.0,3.5,0.0,10.0,250.0,68.0,0.0,59.0,16.0
+407,Mc Donalds,Iced Nonfat Latte (Small),0,0.0,50.0,0.0,0.0,0.0,0.0,5.0,70.0,7.0,0.0,7.0,5.0
+408,Mc Donalds,Iced Nonfat Latte (Medium),0,0.0,60.0,0.0,0.0,0.0,0.0,5.0,90.0,9.0,0.0,9.0,6.0
+409,Mc Donalds,Iced Nonfat Latte (Large),0,0.0,70.0,0.0,0.0,0.0,0.0,5.0,105.0,11.0,0.0,11.0,7.0
+410,Mc Donalds,Iced Nonfat Caramel Latte (Small),0,0.0,140.0,0.0,0.0,0.0,0.0,0.0,105.0,30.0,0.0,30.0,3.0
+411,Mc Donalds,Iced Nonfat Caramel Latte (Medium),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,120.0,32.0,0.0,32.0,5.0
+412,Mc Donalds,Iced Nonfat Caramel Latte (Large),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,150.0,40.0,0.0,40.0,6.0
+413,Mc Donalds,Iced Nonfat Hazelnut Latte (Small),0,0.0,140.0,0.0,0.0,0.0,0.0,0.0,50.0,32.0,0.0,32.0,3.0
+414,Mc Donalds,Iced Nonfat Hazelnut Latte (Medium),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,70.0,33.0,0.0,33.0,5.0
+415,Mc Donalds,Iced Nonfat Hazelnut Latte (Large),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,80.0,42.0,0.0,42.0,6.0
+416,Mc Donalds,Iced Nonfat Vanilla Latte (Small),0,0.0,140.0,0.0,0.0,0.0,0.0,0.0,50.0,31.0,0.0,31.0,3.0
+417,Mc Donalds,Iced Nonfat Vanilla Latte (Medium),0,0.0,150.0,0.0,0.0,0.0,0.0,5.0,70.0,33.0,0.0,33.0,5.0
+418,Mc Donalds,Iced Nonfat Vanilla Latte (Large),0,0.0,190.0,0.0,0.0,0.0,0.0,5.0,85.0,41.0,0.0,41.0,6.0
+419,Mc Donalds,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small),0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,85.0,13.0,0.0,5.0,4.0
+420,Mc Donalds,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium),0,0.0,50.0,0.0,0.0,0.0,0.0,5.0,100.0,14.0,0.0,6.0,5.0
+421,Mc Donalds,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large),0,0.0,60.0,0.0,0.0,0.0,0.0,5.0,130.0,19.0,0.0,8.0,6.0
+422,Mc Donalds,Iced Mocha with Nonfat Milk (Medium),0,0.0,270.0,70.0,8.0,4.5,0.0,10.0,140.0,43.0,0.0,35.0,7.0
+423,Mc Donalds,Iced Nonfat Caramel Mocha (Large),0,0.0,300.0,60.0,6.0,4.0,0.0,10.0,230.0,49.0,0.0,45.0,11.0
+424,Mc Donalds,Iced Nonfat Caramel Mocha (Medium),0,0.0,240.0,60.0,6.0,4.0,0.0,10.0,190.0,37.0,0.0,34.0,9.0
+425,Mc Donalds,Iced Nonfat Caramel Mocha (Small),0,0.0,200.0,50.0,6.0,4.0,0.0,10.0,140.0,29.0,0.0,26.0,6.0
+426,Mc Donalds,Nonfat Caramel Mocha (Large),0,0.0,280.0,35.0,4.0,2.5,0.0,10.0,260.0,49.0,0.0,46.0,12.0
+427,Mc Donalds,Nonfat Caramel Mocha (Medium),0,0.0,240.0,35.0,4.0,2.5,0.0,5.0,200.0,41.0,0.0,38.0,9.0
+428,Mc Donalds,Nonfat Caramel Mocha (Small),0,0.0,200.0,35.0,4.0,2.5,0.0,5.0,170.0,34.0,0.0,31.0,8.0
+429,Mc Donalds,Cappucino (Small),0,0.0,120.0,60.0,7.0,4.0,0.0,20.0,85.0,9.0,0.0,9.0,6.0
+430,Mc Donalds,Cappucino (Medium),0,0.0,140.0,70.0,8.0,4.5,0.0,25.0,105.0,11.0,0.0,11.0,8.0
+431,Mc Donalds,Cappucino (Large),0,0.0,180.0,90.0,10.0,6.0,0.0,30.0,130.0,13.0,0.0,13.0,9.0
+432,Mc Donalds,Latte (Small),0,0.0,150.0,70.0,8.0,4.5,0.0,25.0,105.0,11.0,0.0,11.0,8.0
+433,Mc Donalds,Latte (Medium),0,0.0,180.0,90.0,10.0,6.0,0.0,30.0,130.0,13.0,0.0,13.0,10.0
+434,Mc Donalds,Latte (Large),0,0.0,210.0,100.0,11.0,7.0,0.0,35.0,150.0,16.0,0.0,16.0,11.0
+435,Mc Donalds,Caramel Cappucino (Small),0,0.0,200.0,45.0,5.0,3.0,0.0,15.0,125.0,32.0,0.0,32.0,5.0
+436,Mc Donalds,Caramel Cappucino (Medium),0,0.0,240.0,50.0,6.0,3.5,0.0,20.0,150.0,41.0,0.0,40.0,6.0
+437,Mc Donalds,Caramel Cappucino (Large),0,0.0,290.0,70.0,8.0,4.5,0.0,25.0,190.0,49.0,0.0,49.0,8.0
+438,Mc Donalds,Caramel Latte (Small),0,0.0,230.0,60.0,7.0,4.0,0.0,20.0,140.0,35.0,0.0,35.0,7.0
+439,Mc Donalds,Caramel Latte (Medium),0,0.0,280.0,70.0,8.0,4.5,0.0,25.0,170.0,43.0,0.0,43.0,8.0
+440,Mc Donalds,Caramel Latte (Large),0,0.0,330.0,80.0,9.0,5.0,0.0,30.0,210.0,52.0,0.0,51.0,9.0
+441,Mc Donalds,Hazelnut Cappucino (Small),0,0.0,200.0,45.0,5.0,3.0,0.0,15.0,70.0,34.0,0.0,34.0,5.0
+442,Mc Donalds,Hazelnut Cappucino (Medium),0,0.0,240.0,50.0,6.0,3.5,0.0,20.0,85.0,42.0,0.0,42.0,6.0
+443,Mc Donalds,Hazelnut Cappucino (Large),0,0.0,290.0,70.0,8.0,4.5,0.0,25.0,105.0,51.0,0.0,51.0,7.0
+444,Mc Donalds,Hazelnut Latte (Small),0,0.0,230.0,60.0,7.0,4.0,0.0,20.0,90.0,36.0,0.0,36.0,7.0
+445,Mc Donalds,Hazelnut Latte (Medium),0,0.0,280.0,70.0,8.0,4.5,0.0,25.0,110.0,45.0,0.0,45.0,8.0
+446,Mc Donalds,Hazelnut Latte (Large),0,0.0,330.0,80.0,9.0,5.0,0.0,30.0,130.0,53.0,0.0,53.0,9.0
+447,Mc Donalds,Vanilla Cappucino (Small),0,0.0,200.0,45.0,5.0,3.0,0.0,15.0,70.0,34.0,0.0,34.0,5.0
+448,Mc Donalds,Vanilla Cappucino (Medium),0,0.0,240.0,50.0,6.0,3.5,0.0,20.0,85.0,42.0,0.0,42.0,6.0
+449,Mc Donalds,Vanilla Cappucino (Large),0,0.0,290.0,70.0,8.0,4.5,0.0,25.0,105.0,51.0,0.0,51.0,7.0
+450,Mc Donalds,Vanilla Latte (Small),0,0.0,230.0,60.0,7.0,4.0,0.0,20.0,90.0,36.0,0.0,36.0,7.0
+451,Mc Donalds,Vanilla Latte (Medium),0,0.0,280.0,70.0,8.0,4.5,0.0,25.0,110.0,44.0,0.0,44.0,8.0
+452,Mc Donalds,Vanilla Latte (Large),0,0.0,330.0,80.0,9.0,5.0,0.0,30.0,130.0,53.0,0.0,53.0,9.0
+453,Mc Donalds,Cappucino with Sugar Free Vanilla Syrup (Small),0,0.0,100.0,50.0,5.0,3.0,0.0,15.0,105.0,15.0,0.0,7.0,5.0
+454,Mc Donalds,Cappucino with Sugar Free Vanilla Syrup (Medium),0,0.0,120.0,60.0,6.0,3.5,0.0,20.0,130.0,18.0,0.0,9.0,6.0
+455,Mc Donalds,Cappucino with Sugar Free Vanilla Syrup (Large),0,0.0,150.0,70.0,8.0,4.5,0.0,25.0,160.0,22.0,0.0,11.0,8.0
+456,Mc Donalds,Latte with Sugar Free Vanilla Syrup (Small),0,0.0,130.0,60.0,7.0,4.0,0.0,20.0,125.0,17.0,0.0,10.0,7.0
+457,Mc Donalds,Latte with Sugar Free Vanilla Syrup (Medium),0,0.0,160.0,70.0,8.0,5.0,0.0,25.0,150.0,21.0,0.0,11.0,8.0
+458,Mc Donalds,Latte with Sugar Free Vanilla Syrup (Large),0,0.0,180.0,90.0,10.0,6.0,0.0,30.0,180.0,25.0,0.0,13.0,10.0
+459,Mc Donalds,Mocha (Small),0,0.0,280.0,100.0,11.0,6.0,0.0,20.0,125.0,40.0,0.0,33.0,6.0
+460,Mc Donalds,Mocha (Medium),0,0.0,330.0,110.0,12.0,7.0,0.0,25.0,150.0,48.0,0.0,41.0,7.0
+461,Mc Donalds,Mocha (Large),0,0.0,400.0,130.0,14.0,8.0,0.5,30.0,190.0,58.0,0.0,49.0,10.0
+462,Mc Donalds,Hot Chocolate (Small),0,0.0,300.0,110.0,12.0,7.0,0.0,25.0,135.0,41.0,0.0,35.0,8.0
+463,Mc Donalds,Hot Chocolate (Medium),0,0.0,380.0,130.0,15.0,9.0,0.5,30.0,170.0,53.0,0.0,45.0,10.0
+464,Mc Donalds,Hot Chocolate (Large),0,0.0,460.0,160.0,18.0,10.0,0.5,40.0,220.0,63.0,0.0,54.0,13.0
+465,Mc Donalds,Iced Latte (Small),0,0.0,80.0,40.0,4.5,2.5,0.0,15.0,65.0,6.0,0.0,6.0,4.0
+466,Mc Donalds,Iced Latte (Medium),0,0.0,100.0,50.0,6.0,3.5,0.0,15.0,80.0,8.0,0.0,8.0,6.0
+467,Mc Donalds,Iced Latte (Large),0,0.0,140.0,70.0,8.0,4.5,0.0,25.0,105.0,10.0,0.0,10.0,7.0
+468,Mc Donalds,Iced Caramel Latte (Small),0,0.0,160.0,25.0,3.0,1.5,0.0,10.0,100.0,29.0,0.0,29.0,3.0
+469,Mc Donalds,Iced Caramel Latte (Medium),0,0.0,180.0,40.0,4.5,2.5,0.0,15.0,120.0,31.0,0.0,31.0,4.0
+470,Mc Donalds,Iced Caramel Latte (Large),0,0.0,230.0,50.0,6.0,3.5,0.0,15.0,150.0,40.0,0.0,40.0,6.0
+471,Mc Donalds,Iced Hazelnut Latte (Small),0,0.0,160.0,25.0,3.0,1.5,0.0,10.0,45.0,31.0,0.0,31.0,3.0
+472,Mc Donalds,Iced Hazelnut Latte (Medium),0,0.0,180.0,40.0,4.5,2.5,0.0,15.0,65.0,33.0,0.0,33.0,4.0
+473,Mc Donalds,Iced Hazelnut Latte (Large),0,0.0,230.0,50.0,6.0,3.5,0.0,15.0,85.0,41.0,0.0,41.0,6.0
+474,Mc Donalds,Iced Vanilla Latte (Small),0,0.0,160.0,25.0,3.0,1.5,0.0,10.0,45.0,31.0,0.0,31.0,3.0
+475,Mc Donalds,Iced Vanilla Latte (Medium),0,0.0,190.0,40.0,4.5,2.5,0.0,15.0,70.0,33.0,0.0,33.0,5.0
+476,Mc Donalds,Iced Vanilla Latte (Large),0,0.0,230.0,50.0,6.0,3.5,0.0,15.0,85.0,41.0,0.0,41.0,6.0
+477,Mc Donalds,Iced Latte with Sugar Free Vanilla Syrup (Small),0,0.0,60.0,30.0,3.0,2.0,0.0,10.0,80.0,12.0,0.0,4.0,3.0
+478,Mc Donalds,Iced Latte with Sugar Free Vanilla Syrup (Medium),0,0.0,90.0,40.0,5.0,3.0,0.0,15.0,105.0,14.0,0.0,6.0,5.0
+479,Mc Donalds,Iced Latte with Sugar Free Vanilla Syrup (Large),0,0.0,110.0,50.0,6.0,3.5,0.0,15.0,130.0,19.0,0.0,8.0,6.0
+480,Mc Donalds,Iced Mocha (Medium),0,0.0,310.0,120.0,13.0,8.0,0.0,25.0,140.0,42.0,0.0,35.0,7.0
+481,Mc Donalds,Caramel Mocha (Large),0,0.0,360.0,130.0,14.0,8.0,0.5,35.0,220.0,47.0,0.0,46.0,10.0
+482,Mc Donalds,Caramel Mocha (Medium),0,0.0,290.0,100.0,12.0,7.0,0.0,25.0,180.0,39.0,0.0,38.0,8.0
+483,Mc Donalds,Caramel Mocha (Small),0,0.0,250.0,90.0,11.0,6.0,0.0,25.0,150.0,33.0,0.0,31.0,7.0
+484,Mc Donalds,Iced Caramel Mocha (Large),0,0.0,380.0,140.0,16.0,9.0,0.5,35.0,210.0,48.0,0.0,46.0,10.0
+485,Mc Donalds,Iced Caramel Mocha (Medium),0,0.0,300.0,120.0,14.0,8.0,0.0,30.0,160.0,36.0,0.0,33.0,8.0
+486,Mc Donalds,Iced Caramel Mocha (Small),0,0.0,240.0,100.0,12.0,7.0,0.0,25.0,130.0,29.0,0.0,26.0,6.0
+487,Mc Donalds,Frappe Caramel (Small),McCafe Frappes,0.0,450.0,180.0,20.0,13.0,1.0,55.0,135.0,61.0,0.0,57.0,6.0
+488,Mc Donalds,Frappe Caramel (Medium),McCafe Frappes,0.0,550.0,220.0,24.0,15.0,1.0,70.0,160.0,76.0,0.0,71.0,8.0
+489,Mc Donalds,Frappe Caramel (Large),McCafe Frappes,0.0,680.0,260.0,29.0,18.0,1.5,85.0,200.0,94.0,0.0,88.0,10.0
+490,Mc Donalds,Frappe Mocha (Small),McCafe Frappes,0.0,450.0,180.0,20.0,13.0,1.0,55.0,130.0,62.0,1.0,56.0,7.0
+491,Mc Donalds,Frappe Mocha (Medium),McCafe Frappes,0.0,560.0,210.0,24.0,15.0,1.0,65.0,160.0,78.0,1.0,70.0,8.0
+492,Mc Donalds,Frappe Mocha (Large),McCafe Frappes,0.0,680.0,250.0,28.0,18.0,1.0,80.0,200.0,96.0,1.0,87.0,10.0
+493,Mc Donalds,Strawberry Banana Smoothie (Large),McCafe Smoothies,0.0,330.0,10.0,1.0,0.5,0.0,5.0,55.0,77.0,4.0,70.0,3.0
+494,Mc Donalds,Strawberry Banana Smoothie (Medium),McCafe Smoothies,0.0,260.0,5.0,1.0,0.0,0.0,5.0,40.0,60.0,3.0,54.0,2.0
+495,Mc Donalds,Strawberry Banana Smoothie (Small),McCafe Smoothies,0.0,210.0,5.0,0.5,0.0,0.0,5.0,35.0,49.0,2.0,44.0,2.0
+496,Mc Donalds,Wild Berry Smoothie (Large),McCafe Smoothies,0.0,320.0,10.0,1.0,0.5,0.0,5.0,45.0,75.0,4.0,69.0,3.0
+497,Mc Donalds,Wild Berry Smoothie (Medium),McCafe Smoothies,0.0,260.0,5.0,1.0,0.0,0.0,5.0,35.0,60.0,4.0,55.0,3.0
+498,Mc Donalds,Wild Berry Smoothie (Small),McCafe Smoothies,0.0,210.0,5.0,0.5,0.0,0.0,5.0,30.0,48.0,3.0,44.0,2.0
