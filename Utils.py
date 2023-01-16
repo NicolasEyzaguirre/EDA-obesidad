@@ -11,12 +11,23 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
-def nutri_filtro_menu(Datos='Grafica' , y= 0):
+def nutri_filtro_menu(x='Tablas' , y= 0):
     df_nutri=pd.read_csv('Data/nutrition_values.csv',sep=';')
     df_nutri.fillna(value=0, inplace=True)
     df_nutri.replace({'-':int(0), ',':'.'}, inplace=True,regex=True)
     df_nutri=pd.concat([df_nutri.iloc[:,0:3],df_nutri.iloc[:,3:15].astype(float)],axis=1)
+    df_nutri.loc[[55,60,64], 'Type'] = 'Additional Options'
+    df_nutri.loc[[58,59], 'Type'] = 'Burgers'
+    df_nutri.loc[371:486, 'Type'] = 'Coffee'
+    df_nutri.loc[[65], 'Type'] ='Desserts/Shakes'
+    df_nutri.loc[[61,62,63], 'Type']='Beverages'
+    df_nutri.replace({'Type': {'Salads & Sides ': 'Salads & Sides', 'Salads': 'Salads & Sides', 'French Fries': 'Salads & Sides',
+                  'Shakes/Smoothies': 'Desserts/Shakes', 'McCafe Smoothies': 'Desserts/Shakes', 'McCafe Frappes': 'Desserts/Shakes','Desserts':'Desserts/Shakes',
+                  'Frappes':'Desserts/Shakes','Hot Coffees':'Coffee','Iced Coffees':'Coffee','Smoothies': 'Desserts/Shakes',
+                  'Flame Broiled Burgers': 'Burgers', 'Soft Drinks': 'Beverages', 'Whopper Sandwiches': 'Burgers',
+                  'Chicken & Sauce':'Chicken & More','Sandwiches':'Chicken & More',}},inplace=True)
 
+    
     sugar_safe=df_nutri[df_nutri['Total Sugar (g)']<=31.5]     
     fat_safe=sugar_safe[(sugar_safe['Trans Fat (g)']/sugar_safe['Total Fat (g)'])*sugar_safe['Calories from fat']<=sugar_safe['Calories']*0.01]    
     saturated_fat_safe=fat_safe[(fat_safe['Saturated Fat (g)']/fat_safe['Total Fat (g)'])*fat_safe['Calories from fat']<=fat_safe['Calories']*0.1]
@@ -32,7 +43,7 @@ def nutri_filtro_menu(Datos='Grafica' , y= 0):
     fiber_good=fiber_good[fiber_good['Item']!=0]        
     fiber_good['Protein (g)/g of portion']=fiber_good['Protein (g)']/fiber_good['Serving Size (g)'] 
 
-    if Datos == 'Grafica':        
+    if x == 'Tablas':        
  
         if y == 1:
             plt.figure()
@@ -43,18 +54,63 @@ def nutri_filtro_menu(Datos='Grafica' , y= 0):
         else:
             return print('seleccione una tabla')
     
-    if Datos == 'sodium':        
-                    
+    if x == 'sodium':        
+   
         return sodium_safe
         
 
-    if Datos == 'fiber':
-        
+    elif x == 'fiber':
+      
         return fiber_good
 
-    if Datos == 'original':
+    elif x == 'original':
         
         return df_nutri
+
+# def nutri_filtro_menu(Datos='Grafica' , y= 0):
+#     df_nutri=pd.read_csv('Data/nutrition_values.csv',sep=';')
+#     df_nutri.fillna(value=0, inplace=True)
+#     df_nutri.replace({'-':int(0), ',':'.'}, inplace=True,regex=True)
+#     df_nutri=pd.concat([df_nutri.iloc[:,0:3],df_nutri.iloc[:,3:15].astype(float)],axis=1)
+
+#     sugar_safe=df_nutri[df_nutri['Total Sugar (g)']<=31.5]     
+#     fat_safe=sugar_safe[(sugar_safe['Trans Fat (g)']/sugar_safe['Total Fat (g)'])*sugar_safe['Calories from fat']<=sugar_safe['Calories']*0.01]    
+#     saturated_fat_safe=fat_safe[(fat_safe['Saturated Fat (g)']/fat_safe['Total Fat (g)'])*fat_safe['Calories from fat']<=fat_safe['Calories']*0.1]
+#     totalfat_safe=saturated_fat_safe[saturated_fat_safe['Calories from fat']/saturated_fat_safe['Calories']<=30] 
+#     sodium_safe=totalfat_safe[totalfat_safe['Sodium (mg)']<=2300]
+
+#     sodium_safe=sodium_safe[sodium_safe['Serving Size (g)']!=0]
+#     sodium_safe=sodium_safe[sodium_safe['Item']!=0]        
+#     sodium_safe['Protein (g)/g of portion']=sodium_safe['Protein (g)']/sodium_safe['Serving Size (g)']
+
+#     fiber_good=saturated_fat_safe[(saturated_fat_safe['Dietary Fiber (g)']*1000/saturated_fat_safe['Calories'])>=14]
+#     fiber_good=fiber_good[fiber_good['Serving Size (g)']!=0]
+#     fiber_good=fiber_good[fiber_good['Item']!=0]        
+#     fiber_good['Protein (g)/g of portion']=fiber_good['Protein (g)']/fiber_good['Serving Size (g)'] 
+
+#     if Datos == 'Grafica':        
+ 
+#         if y == 1:
+#             plt.figure()
+#             plt.rcParams.update({'font.size': 12}) 
+#             sodium_safe.sort_values(by='Protein (g)/g of portion').plot.barh(x='Item',y='Protein (g)/g of portion', figsize=(15,15), stacked=True);
+#         elif y ==2:
+#             fiber_good.sort_values(by='Protein (g)/g of portion').plot.barh(x='Item',y='Protein (g)/g of portion', figsize=(15,15), stacked=True);
+#         else:
+#             return print('seleccione una tabla')
+    
+#     if Datos == 'sodium':        
+                    
+#         return sodium_safe
+        
+
+#     if Datos == 'fiber':
+        
+#         return fiber_good
+
+#     if Datos == 'original':
+        
+#         return df_nutri
 
 def obesidad_estados_restaurantes(Grafica='nada',Tabla=False):
     df_USA=pd.read_csv('Data/National_Obesity_By_State.csv')
