@@ -1,0 +1,41 @@
+,Chain,Item,Type,Serving Size (g),Calories,Calories from fat,Total Fat (g),Saturated Fat (g),Trans Fat (g),Chol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugar (g),Protein (g),Protein (g)/g of portion
+22,Burger King,Crispy Chicken Sandwich,Chicken & More,228.0,670.0,370.0,41.0,7.0,0.0,60.0,1080.0,54.0,2.0,8.0,23.0,0.10087719298245613
+23,Burger King,Spicy Crispy Chicken Sandwich,Chicken & More,242.0,700.0,370.0,42.0,7.0,0.0,65.0,1140.0,57.0,3.0,8.0,25.0,0.10330578512396695
+24,Burger King,Original Chicken Sandwich,Chicken & More,219.0,660.0,360.0,40.0,7.0,0.0,75.0,1170.0,48.0,2.0,5.0,28.0,0.1278538812785388
+27,Burger King,Crispy Chicken Jr.,Chicken & More,142.0,450.0,270.0,30.0,5.0,0.0,30.0,780.0,34.0,2.0,5.0,12.0,0.08450704225352113
+28,Burger King,Spicy Crispy Chicken Jr.,Chicken & More,142.0,390.0,190.0,21.0,3.5,0.0,30.0,740.0,37.0,2.0,6.0,12.0,0.08450704225352113
+39,Burger King,Big Fish Sandwich,Chicken & More,188.0,510.0,250.0,28.0,4.5,0.0,30.0,1180.0,51.0,2.0,7.0,16.0,0.0851063829787234
+45,Burger King,Ken's Lite Honey Balsamic Vinaigrette,Salads & Sides,43.0,120.0,70.0,8.0,1.0,0.0,0.0,220.0,14.0,0.0,11.0,0.0,0.0
+46,Burger King,Buttery Garlic Croutons,Salads & Sides,14.0,60.0,20.0,2.5,0.0,0.0,10.0,180.0,9.0,0.0,1.0,1.0,0.07142857142857142
+55,Burger King,Kids Oatmeal,Additional Options,167.0,170.0,30.0,3.0,1.5,0.0,5.0,260.0,32.0,3.0,12.0,4.0,0.023952095808383235
+64,Burger King,PB&J Jamwich,Additional Options,79.0,300.0,140.0,16.0,3.0,0.0,0.0,290.0,33.0,4.0,11.0,11.0,0.13924050632911392
+100,Burger King,Mayo,Additional Options,12.0,80.0,80.0,9.0,0.5,0.0,10.0,75.0,1.0,0.0,0.0,0.0,0.0
+187,Mc Donalds,McChicken,Chicken & More,143.0,360.0,150.0,16.0,3.0,0.0,11.0,830.0,40.0,2.0,5.0,14.0,0.0979020979020979
+189,Mc Donalds,Premium Grilled Chicken Classic Sandwich,Chicken & More,201.0,360.0,80.0,9.0,2.0,0.0,21.0,820.0,41.0,4.0,8.0,27.0,0.13432835820895522
+190,Mc Donalds,Premium Crispy Chicken Classic Sandwich,Chicken & More,213.0,510.0,200.0,22.0,3.5,0.0,16.0,990.0,56.0,3.0,10.0,24.0,0.11267605633802817
+193,Mc Donalds,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & More,203.0,380.0,90.0,10.0,3.0,0.0,25.0,1000.0,41.0,4.0,9.0,31.0,0.15270935960591134
+194,Mc Donalds,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & More,215.0,540.0,210.0,23.0,4.5,0.0,19.0,1160.0,56.0,3.0,11.0,27.0,0.12558139534883722
+195,Mc Donalds,Southern Style Crispy Chicken Sandwich,Chicken & More,161.0,400.0,150.0,17.0,3.0,0.0,16.0,1030.0,39.0,1.0,6.0,24.0,0.14906832298136646
+208,Mc Donalds,Small French Fries,Salads & Sides,71.0,230.0,100.0,11.0,1.5,0.0,0.0,160.0,29.0,3.0,0.0,3.0,0.04225352112676056
+209,Mc Donalds,Medium French Fries,Salads & Sides,117.0,380.0,170.0,19.0,2.5,0.0,0.0,270.0,48.0,5.0,0.0,4.0,0.03418803418803419
+210,Mc Donalds,Large French Fries,Salads & Sides,154.0,500.0,220.0,25.0,3.5,0.0,0.0,350.0,63.0,6.0,0.0,6.0,0.03896103896103896
+213,Mc Donalds,Chicken McNuggets (4pc),Chicken & More,65.0,190.0,110.0,12.0,2.0,0.0,25.0,360.0,12.0,1.0,0.0,9.0,0.13846153846153847
+214,Mc Donalds,Chicken McNuggets (6pc),Chicken & More,97.0,280.0,160.0,18.0,3.0,0.0,40.0,540.0,18.0,1.0,0.0,13.0,0.13402061855670103
+215,Mc Donalds,Chicken McNuggets (10pc),Chicken & More,162.0,470.0,270.0,30.0,5.0,0.0,65.0,900.0,30.0,2.0,0.0,22.0,0.13580246913580246
+218,Mc Donalds,Hot Mustard Sauce,Chicken & More,28.0,60.0,20.0,2.5,0.0,0.0,5.0,250.0,9.0,2.0,6.0,1.0,0.03571428571428571
+220,Mc Donalds,Chicken Selects Premium Breast Strips (3pc),Chicken & More,131.0,400.0,210.0,24.0,3.5,0.0,50.0,1010.0,23.0,0.0,0.0,23.0,0.17557251908396945
+221,Mc Donalds,Chicken Selects Premium Breast Strips (5pc),Chicken & More,219.0,660.0,360.0,40.0,6.0,0.0,85.0,1680.0,39.0,0.0,0.0,38.0,0.1735159817351598
+224,Mc Donalds,Tangy Honey Mustard Sauce,Chicken & More,35.0,60.0,20.0,2.0,0.0,0.0,5.0,140.0,10.0,0.0,8.0,0.0,0.0
+226,Mc Donalds,Premium Southwest Salad with Grilled Chicken,Salads & Sides,350.0,320.0,80.0,9.0,3.0,0.0,70.0,960.0,30.0,6.0,11.0,30.0,0.08571428571428572
+227,Mc Donalds,Premium Southwest salad with Crispy Chicken,Salads & Sides,353.0,430.0,180.0,20.0,4.0,0.0,55.0,920.0,38.0,6.0,12.0,26.0,0.07365439093484419
+236,Mc Donalds,Butter Garlic Croutons,Salads & Sides,14.0,60.0,15.0,1.5,0.0,0.0,0.0,140.0,10.0,1.0,0.0,2.0,0.14285714285714285
+237,Mc Donalds,Snack Size Fruit & Walnut Salad,Salads & Sides,163.0,210.0,70.0,8.0,1.5,0.0,5.0,60.0,31.0,2.0,25.0,4.0,0.024539877300613498
+246,Mc Donalds,English Muffin,Breakfast,56.0,160.0,30.0,3.0,0.5,0.0,0.0,280.0,27.0,2.0,2.0,5.0,0.08928571428571429
+265,Mc Donalds,Hotcakes,Breakfast,151.0,350.0,80.0,9.0,2.0,0.0,20.0,590.0,60.0,3.0,14.0,8.0,0.052980132450331126
+269,Mc Donalds,Hash Brown,Breakfast,56.0,150.0,80.0,9.0,1.5,0.0,0.0,310.0,15.0,2.0,0.0,1.0,0.017857142857142856
+274,Mc Donalds,Fruit & Maple Oatmeal without Brown Sugar,Breakfast,251.0,260.0,40.0,4.5,2.0,0.0,10.0,115.0,48.0,5.0,18.0,5.0,0.0199203187250996
+275,Mc Donalds,Fruit & Yogurt Parfait,Desserts/Shakes,149.0,160.0,20.0,2.0,1.0,0.0,5.0,85.0,31.0,1.0,21.0,4.0,0.026845637583892617
+276,Mc Donalds,Low Fat Caramel Dip,Desserts/Shakes,21.0,70.0,5.0,0.5,0.0,0.0,5.0,35.0,15.0,0.0,9.0,0.0,0.0
+282,Mc Donalds,Peanuts,Desserts/Shakes,7.0,45.0,30.0,3.5,0.5,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.2857142857142857
+287,Mc Donalds,McDonaldland Cookies,Desserts/Shakes,57.0,260.0,70.0,8.0,2.5,0.0,0.0,300.0,43.0,1.0,13.0,4.0,0.07017543859649122
+291,Mc Donalds,Apple Dippers with Low Fat Caramel Dip,Desserts/Shakes,89.0,100.0,5.0,0.5,0.0,0.0,5.0,35.0,23.0,0.0,15.0,0.0,0.0
